@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most exact and accurate map of the whole world: or The orb terrestrial described in four plain maps (viz.) Asia, Europe, Africa, America. Containing all the known and most remarkable capes, ports, bayes, and isles, rocks, rivers, towns, and cities; together with their scituation, commodities, history, customes, government; and a new and exact geography, especially their longitudes and latitudes, in alphabetical order, and fitted to all capacities. A work, as well useful as delightful, for all schollars, merchants, mariners, and all such as desire to know forreign parts, and is very helpful for the ready finding out any place mentioned in large maps. By D.L. M.A.</title>
+            <author>Lupton, Donald, d. 1676.</author>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26341</idno><idno type="EEBO-CITATION">99829399</idno>
+  <idno type="VID">207122</idno>
+  <idno type="EEBO-PROQUEST">2264210398</idno>
+  
+            <idno type="STC">Wing L3492</idno>
+            <idno type="PROQUEST">99829399</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829399e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1993:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most exact and accurate map of the whole world: or The orb terrestrial described in four plain maps (viz.) Asia, Europe, Africa, America. Containing all the known and most remarkable capes, ports, bayes, and isles, rocks, rivers, towns, and cities; together with their scituation, commodities, history, customes, government; and a new and exact geography, especially their longitudes and latitudes, in alphabetical order, and fitted to all capacities. A work, as well useful as delightful, for all schollars, merchants, mariners, and all such as desire to know forreign parts, and is very helpful for the ready finding out any place mentioned in large maps. By D.L. M.A.</title>
+                  <author>Lupton, Donald, d. 1676.</author>
+               </titleStmt>
+               <extent>[8], 120, 65-72, 129-193 p., [4] folded leaves : maps  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Garrett, at his shops as you go up the stairs of the Royal Exchange in Cornhil: where is printed, coloured and sold, a map of the world in four sheets with English descriptions: and where you may have also choice of all sorts of maps, and pictures for houses, studies, or closets,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>D.L. = Donald Lupton,.</note>
+                  <note>The words "Asia, Europe" and "Africa, America." are bracketed together on title page.</note>
+                  <note>Quire R missigned "K"; otherwise, register and text are continuous despite pagination.</note>
+                  <note>Includes index.</note>
+                  <note>Signatures: A-2B⁴.</note>
+                  <note>Reproduction of the original in the Jesus College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Geography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207122:1"/>
+            <pb facs="tcp:207122:1"/>
+            <pb facs="tcp:207122:2"/>
+            <pb facs="tcp:207122:2"/>
+            <p>A Most Exact and Accurate MAP OF THE Whole World: OR THE ORB Terrestrial described in Four plain MAPS, <hi>(VIZ.)</hi>
+               <list>
+                  <item>
+                     <hi>ASIA,</hi>
+                  </item>
+                  <item>
+                     <hi>EƲROPE,</hi>
+                  </item>
+                  <item>
+                     <hi>AFRICA,</hi>
+                  </item>
+                  <item>
+                     <hi>AMERICA.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Containing all the known and most Remarkable Capes, Ports, Bayes and Isles, Rocks, Rivers, Towns, and Cities; together with their Scituation, Commodities, History, Customes, Government; and a new and exact <hi>Geography,</hi> especially their <hi>Longitudes</hi> and <hi>Latitudes,</hi> in Alphabetical Order, and fitted to all Capacities.</p>
+            <p>A Work, as well useful as delightful, for all Schollars, Merchants, Mariners, and all such as desire to know Forreign parts, and is very helpful for the ready finding out any place mentioned in large Maps.</p>
+            <p>By <hi>D. L.</hi> M. A.</p>
+            <q>
+               <hi>Dii laboribus omnia vendunt.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Garrett,</hi> at his Shop as you go up the Stairs of the Royal Exchange in <hi>Cornhil:</hi> where is Printed, Coloured and Sold, a Map of the World in four Sheets with <hi>English</hi> de<g ref="char:EOLhyphen"/>scriptions: And where you may have also choice of all sorts of Maps, and Pictures for Houses, Studies, or Closets. 1676.</p>
+         </div>
+         <div type="modern_bookplate">
+            <pb facs="tcp:207122:3"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Collegium Jesu Cantabrigiense 1700</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207122:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ʋr Fathers remember one man that drew the whole body of the Heavens in a short Plate, which he presented to the Emperour of <hi>Germany;</hi> And another that Com<g ref="char:EOLhyphen"/>prehended the Ten Commandments, the Creed, and the Lords Prayer in one sin<g ref="char:EOLhyphen"/>gle Peny, which he bestowed upon Queen <hi>Elizabeth.</hi> We their Posterity, have here, all that the Industrious Collection of <hi>Strabo, Pliny,</hi> and the Judicious Ob<g ref="char:EOLhyphen"/>servations of <hi>Pomponius Mela,</hi> the choice Rarities of the <hi>Nubian</hi> Geogra<g ref="char:EOLhyphen"/>phy, the deep and long Reaches of the Admired (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>)
+<note n="*" place="margin">Three men estee<g ref="char:EOLhyphen"/>med Mira<g ref="char:EOLhyphen"/>cles of Na<g ref="char:EOLhyphen"/>ture a<g ref="char:EOLhyphen"/>mong the Antients, <hi>Plato</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Aristotiles</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. and <hi>Ptol.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Ptolomy:</hi> the great In<g ref="char:EOLhyphen"/>dustry of <hi>Gerard Mercator;</hi> the often translated Cosmography of <hi>Sebastian
+<pb facs="tcp:207122:4"/>Munster;</hi> the worn-out <hi>German M. S.</hi> of <hi>Goldman;</hi> the stately pieces of <hi>Bleau,</hi> and <hi>Johnston;</hi> the comprehensive De<g ref="char:EOLhyphen"/>scription of <hi>Lucas de Linda:</hi> the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <hi>Ralph Volaterran;</hi> the Great World of Great <hi>Ortelius</hi> and <hi>Maginus;</hi> besides the Corographies of each Country,
+<note n="*" place="margin">Pausa<g ref="char:EOLhyphen"/>nias of Greece.</note> as <hi>Guicciardane</hi> of the <hi>Low Countries, Le<g ref="char:EOLhyphen"/>anders</hi> of <hi>Italy, Cambden</hi> of <hi>England;</hi> The travels of the Experienced, as <hi>San<g ref="char:EOLhyphen"/>dys, Blunt, L'Blance,</hi> the <hi>Holstein</hi> Am<g ref="char:EOLhyphen"/>bassadors; all these sum'd up in <hi>24</hi> sheets, above an <hi>100<seg rend="sup">l</seg>
+               </hi> worth of Learning for <hi>18<seg rend="sup">d</seg>,</hi> &amp; many ages knowledg of the whole world for a few hours study: It's strange though true, to consider that the Gentlemans cu<g ref="char:EOLhyphen"/>riosity can pitch upon no Place, Custome, History of any part, or all the World, but here he hath satisfaction; the Traveller desires to know no Country, either for his Instruction in new Observation, or Recol<g ref="char:EOLhyphen"/>lection of his old ones, but here it's fully
+<pb facs="tcp:207122:4"/>described: The Seaman seeth here in one day, all Creeks, Sands, Ports, Channels, with the Longitude and Latitude of each place: The Merchant, all Commodities Imported and Exported into each Coun<g ref="char:EOLhyphen"/>try, with the Marts for them; the time and place of trade for each of them; the Novilant hath the scituation of each place of action he hears of; the Schollar all the Governments, Laws, Alterations, Incli<g ref="char:EOLhyphen"/>nations, Inhabitants, Cities, Laws and Customs of each Country. <hi>Cato</hi> used to ask upon the proposal of any business to be done, <hi>cui bono,</hi> to what end is this? And if thou ask, <hi>cui fini,</hi> to what purpose is the writing of this Book? We answer, <hi>1.</hi> It is to prepare the younger sort with an exact introduction to larger Geographies. <hi>2.</hi> It's to accommodate the more knowing with an exact account in the brief of their lar<g ref="char:EOLhyphen"/>ger reading to help their memory. <hi>3.</hi> It's to render History more pleasant; for as the
+<pb facs="tcp:207122:5"/>story maketh the place more remarkable, so the particular knowledge of the place ma<g ref="char:EOLhyphen"/>keth the story more pleasant. <hi>Ammian Marcellinus</hi> hath deserved well of the Common-wealth of learning, by premising the Geography and Description of each part of the World, before he attempted the History of the whole. <hi>4.</hi> It's to render the Scripture in many places mentioned in it (out of <hi>Chytraeus,</hi> his <hi>Itinerarium S. Script.</hi> and <hi>Adricomius</hi> his <hi>Terra Sancta</hi>) more intelligible. <hi>5.</hi> It's to fur<g ref="char:EOLhyphen"/>nish Physitians with the necessary know<g ref="char:EOLhyphen"/>ledge of the temper of mens bodies in eve<g ref="char:EOLhyphen"/>ry Clime; the nature and growth of sim<g ref="char:EOLhyphen"/>ples, and medicinal drugs in each Coun<g ref="char:EOLhyphen"/>try; to acquaint Lawyers with the Laws of Nations, and Divines with the Reli<g ref="char:EOLhyphen"/>gions of the World: To hint to States-men the Genius of all people; together with the Limits and Bounds the Weakness and Strength, Advantages and Disadvan<g ref="char:EOLhyphen"/>tages
+<pb facs="tcp:207122:5"/>of all States and Kingdoms. And <hi>Lastly,</hi> to entertain any Gentleman with<g ref="char:EOLhyphen"/>out any charge or pain, with the particu<g ref="char:EOLhyphen"/>lar draughts of Kingdomes, Provinces, Cities, Towns, Castles, Continents, Ilands Pemnsulaes, Istmus's, Promontories, Climes, Horizons, Meridians, Zones (all done beyond <hi>Clavius, Sacro Bosco,</hi> by M<seg rend="sup">r</seg>
+               <hi>Hues</hi> his Book of the use of the Globes) Streights or Fretes, Creekes or Bayes, Lakes, Rivers, with their Rise, Course, Channels, Harbours, Influxes, (done ex<g ref="char:EOLhyphen"/>actly by <hi>Aurigarius</hi> in his <hi>Speculum Nauticum, S<seg rend="sup">r</seg> Tho. Reeves</hi> his <hi>Histo<g ref="char:EOLhyphen"/>ria Navalis, Pet. de Medina,</hi> and <hi>Non<g ref="char:EOLhyphen"/>nius</hi> his <hi>Regulae Artis Navigandi.)</hi> Ci<g ref="char:EOLhyphen"/>ties and Towns (which may serve instead of <hi>Bruinus</hi> his <hi>Theatrum Urbium,</hi> or <hi>Stephanus</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Revenues, Strength, Discipline out of <hi>Boterus, &amp;c.</hi> and that too in as compleat away, as if he had tra<g ref="char:EOLhyphen"/>velled over either all the Books, or all the
+<pb facs="tcp:207122:6"/>Countries of the World; whereof this little Book contains as handsome particulars, admi<g ref="char:EOLhyphen"/>nisiring to Discourse upon all occasions, as any ingenious person that keeps Company can wish.</p>
+            <p>As little as this Book is, it is not so <hi>Brief</hi> as to be <hi>Obscure,</hi> onely there being no place for an idle word or letter in so exact a Piece, we have expressed such known words, as <hi>East, West, North</hi> and <hi>South, Latitude</hi> and <hi>Longitude, &amp;c.</hi> with the first letters of them, and divided each Country into its Province, assigning to each Province its Towns, <hi>&amp;c.</hi> (without any circum<g ref="char:EOLhyphen"/>locution, —
+<q>Ornari res ipsa negat, contenta doceri)</q> with the Bounds, Scituation, Length, Breadth, and Estate of each place of Note in the World, whereby a man easily learneth how each place stands its self, and with relation to all others; what its Original is, if now in being, and what its former condition was, if now desolate: And all this with that exactness <hi>(<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Arist.)</hi> the subject matter is capable of.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207122:6"/>
+            <head>A MAP OF THE Whole World: Or, the Orb Terrestrial, in Four Parts, <hi>(viz.) Asia, Europe, Affrica,</hi> and <hi>America.</hi>
+            </head>
+            <head type="sub">ASIA.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>SIA,</hi>
+               <note n="*" place="margin">Called so from <hi>Asi,</hi> a <hi>mid<g ref="char:EOLhyphen"/>dle,</hi> because in the middle be<g ref="char:EOLhyphen"/>tween <hi>Europe</hi> and <hi>Affrica. Roch.</hi>
+               </note> In Scripture, called <hi>Semia,</hi> from <hi>Sem,</hi> bounded on the West with the <hi>Mediterranian, Aegean,</hi> the <hi>Heles<g ref="char:EOLhyphen"/>pont, Propontis, Thracian, Bosphorus,</hi> and the <hi>Euxine</hi> Sea towards <hi>Europe;</hi> On the South with the <hi>Carpathian</hi> Sea, and the Southern Ocean towards <hi>Affrica;</hi> On the East with the <hi>Indian</hi> Sea, and <hi>Mare<g ref="char:EOLhyphen"/>del-zar</hi> towards <hi>America;</hi> On the North with the main <hi>Scythick</hi> Ocean; all Sea-bound, except a narrow <hi>Istmus,</hi>
+               <pb n="2" facs="tcp:207122:7"/>in the South-west towards <hi>Affrica.</hi>
+               <note n="†" place="margin">Its Scitua<g ref="char:EOLhyphen"/>tion.</note> Scituated <hi>E.</hi> and <hi>W.</hi> from 52 to the 169 degree of Longitude, <hi>N. S.</hi> to the 82 degree of Latitude to the Aequator, longest day, except in Northern parts, 12 hours, length 5200, breadth 4560 miles, famous for being the Scene of the Creation, Redemption, and first Monarchs of the World.</p>
+            <p>Here's Mount <hi>Taurus</hi> from <hi>Lycia</hi> to the <hi>Indian</hi> shore, 6240 long, and 357 broad, memorable for three dif<g ref="char:EOLhyphen"/>ficult passages, first, <hi>Pylae Ciliciae;</hi> secondly, <hi>Caucatiae;</hi> thirdly, <hi>Portae Caspiae.</hi> 2. <hi>Imaus</hi> crossing <hi>Taurus</hi> 36 Monarchies, those Mountains of power; 1 the <hi>Turkish,</hi> 2 the <hi>Persian,</hi> 3 the <hi>Cham</hi> of <hi>Tartary,</hi> 4 the <hi>Chinois,</hi> 5 the King of <hi>Barma,</hi> 6 the <hi>Great Mogor:</hi> and 4 Religions, <hi>Christianity</hi> improved much lately by Trade, <hi>Judaisme, Paganisme,</hi> and <hi>Mahumetanisme.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I. <hi>Asia minor,</hi>
+               </head>
+               <p> a <hi>Peninsula,</hi> between 51 and 72 degrees of longitude, 36 and 45 of Latitude, 630 miles long from the <hi>Helespont,</hi> to <hi>Euphrates,</hi> and 260 broad from <hi>Sinus Issicus</hi> to <hi>Trapezond;</hi> healthful and fruitful between the middle parallel of the 4<seg rend="sup">•h</seg> clime, and the middle parallel of the 6<seg rend="sup">th</seg>, as good for Horses, according to the <hi>Turkish</hi> Proverb, as <hi>Europe</hi> is for horsemen. Here's 1. <hi>Pontus,</hi> where are 1 the mid-land towns, <hi>Claudiopolis, Flaviopolis, Juliopolis,</hi> called so from the <hi>Roman</hi> Empe<g ref="char:EOLhyphen"/>rours that built them. 2. the Sea-towns, as 1 <hi>Heraclea Ponti,</hi> the seat and residence of an Emperour formerly, and now a place of good Trade. 2 <hi>Diospolis</hi> on the <hi>Euxine</hi> Sea. 3 <hi>Amastris.</hi> 4 <hi>Sinope</hi> on a Promontory shooting into the Main. 5 <hi>Castamona.</hi> 6 <hi>Favagoria.</hi> 7 <hi>A<g ref="char:EOLhyphen"/>masia,</hi> where the Grandsigniour's Eldest Son is kept alwayes as soon as circumcised till his Fathers death. 8 <hi>Diopolis,</hi> where <hi>Mithredates</hi> escaped <hi>Lucullus,</hi> by strew<g ref="char:EOLhyphen"/>ing treasure in his way. 9 <hi>Polemonium.</hi> 10 <hi>Hermanassa.</hi> 11
+<note n="*" place="margin">Or <hi>Neocaesa<g ref="char:EOLhyphen"/>ria.</hi>
+                  </note>
+                  <hi>Nixana.</hi> 12 <hi>Sebastia;</hi> hereabouts were the war-like <hi>Amazons,</hi> that had no
+<note n="†" place="margin">Whence called <hi>Ama<g ref="char:EOLhyphen"/>zons,</hi> from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Males among them; going to their Neighbour Nations once in three years for copu<g ref="char:EOLhyphen"/>lation, and if they brought forth Males, they sent them
+<pb n="3" facs="tcp:207122:7"/>to their Fathers, if Females they kept them. 13 <hi>Cerasus,</hi> whence Cherries were brought to <hi>Rome A.V.C.</hi> 680. 14 <hi>Ischopolis.</hi> 15. <hi>Trapezond</hi> on the <hi>Euxine</hi> Sea, a famous Empory for Salt-fish, an adjoyning Mountain afford<g ref="char:EOLhyphen"/>ing a black stone, that when beaten serves for salt; and for being the station of the <hi>Turkish</hi> Gallies, that are to clear the <hi>black Sea.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. Fruitful <hi>Bythinia,</hi>
+               </head>
+               <p> Eastward of <hi>Pontus,</hi> Westward and North ward the <hi>Euxine</hi> Sea, &amp; <hi>Phrygiaminor,</hi> where<g ref="char:EOLhyphen"/>rein 1 <hi>Scutori</hi> well Garrisoned, and <hi>Orcharded</hi> with <hi>Mai<g ref="char:EOLhyphen"/>den tower</hi> over against the Haven of <hi>Constantinople.</hi> 2 <hi>Ni<g ref="char:EOLhyphen"/>comedia</hi> much frequented for its fresh springs, &amp; pleasant plains. 3 <hi>Prusa</hi> or <hi>Brussa,</hi> the Turk's Imperial Seat be<g ref="char:EOLhyphen"/>fore <hi>Adrianople,</hi> and now their Sepulture large and weal<g ref="char:EOLhyphen"/>thy. 4 Poor <hi>Caleedon,</hi> where <hi>Constantine</hi> intended to build his Seat, but that Eagles carried the workmens lines to <hi>Bizantium,</hi> and where was the 4<seg rend="sup">th</seg> General Council, con<g ref="char:EOLhyphen"/>fisting of 530 Bishops against <hi>Nestorius.</hi> 5 <hi>Nice,</hi> now <hi>Nei<g ref="char:EOLhyphen"/>chia,</hi> or <hi>Isnichs,</hi> famous for two Councils held therein; one famous <hi>A.</hi> 314 by <hi>Constantine,</hi> the other by
+<note n="*" place="margin">Where <hi>Images</hi> were decreed to be worship'd, be<g ref="char:EOLhyphen"/>cause it was written, <hi>Let us make man after our own Image.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>Errene.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Galatia,</hi> or <hi>Chaunger,</hi>
+               </head>
+               <p>
+                  <hi> E. Cappadocia. N. Paphlagonia, S. Lycaonia</hi> famous for fruits and stones, especially the <hi>Amethyst,</hi> that keeps men from being drunk as long as they wear it; where people used to cast letters with the deceased into the fire, to be read in another world. Here 1 <hi>Ancyra</hi> famous for an old Synod, <hi>A.</hi> 299 and good Chamlets on the bankes of <hi>Surgarius.</hi> 2 <hi>Olenus.</hi> 3 <hi>Agrinana.</hi> 4 <hi>Tavium.</hi> 5 <hi>Andro<g ref="char:EOLhyphen"/>sin.</hi> 6 <hi>Phaborena.</hi> 7 <hi>Thorma.</hi> 8 <hi>Talach Bachora.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Paphlagonia</hi> now called <hi>Rom,</hi>
+               </head>
+               <p>
+                  <hi> E.</hi> River <hi>Haly,</hi> and <hi>Cappadocia. N. Pontus,</hi> where there are such poor places, as <hi>Gangra</hi> where <hi>Concilium Ganyrense</hi> 339. 2 <hi>Conrula.</hi> 3 <hi>Pompeiopolis.</hi> 4 <hi>Germanopolis.</hi> 5 <hi>Nouna.</hi> 6 <hi>Andrapa.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>Phrygia</hi> the less </head>
+               <p>
+                  <hi>E. Mysia. W. Hellespont. N. S. Propontis</hi> and the <hi>Aegean</hi> Sea: Here is, 1 the Ruines of <hi>Troy:</hi> 2 With its Port <hi>Sigaeum,</hi> and 3 the Sea town <hi>Lyrnessus,</hi> and <hi>Assus, Acts</hi> 20.13. where dead bodies are consumed in 40 dayes, and 4 strong <hi>Scamandria.</hi>
+               </p>
+            </div>
+            <pb n="4" facs="tcp:207122:8"/>
+            <div n="6" type="part">
+               <head>VI. <hi>Mysia</hi>
+               </head>
+               <p>
+                  <hi> E. W. Phrygia</hi> the greater and less <hi>N. S. Bythinia Hellespont, Lydia</hi> and the <hi>Aegean,</hi> where be<g ref="char:EOLhyphen"/>sides the Mountain <hi>Olympus,</hi> and the Rivers <hi>Caicus,</hi> and 2 <hi>Granicus:</hi> 1 <hi>Pergamus</hi> on a goodly plain by the banks of <hi>Caicus,</hi> famous for, 1 a great Library, containing 20000 Volumes, whence Parchment called <hi>Pergamenum.</hi> 2 <hi>Ta<g ref="char:EOLhyphen"/>pestry.</hi> 3 <hi>Galens</hi> birth-place, who attained to 140 years of age, 1 By never eating or drinking his fill. 2 Nor any thing raw. 3 And by perfumes he carried about him. 4 And one of the 7 Churches in the <hi>Revelations.</hi> 2 <hi>Alydda.</hi> 3 <hi>Trojanopolis.</hi> 4 <hi>Praepemissus.</hi> 5 <hi>Protoselene.</hi> 6 <hi>Addramittium, Acts</hi> 27. 7 <hi>Dainta.</hi> 8 <hi>Scepsis vetus</hi> on the <hi>Aegean</hi> Sea. 9 <hi>Parium,</hi> and its <hi>Marble.</hi> 10 <hi>Priapus,</hi> the filthy Gods <hi>Lampsachus.</hi> 11 <hi>Cyzicus</hi>
+                  <note n="*" place="margin">Famous for a Temple, whose Pillars were 4 Cubits thick, and 50 Cubits high.</note> strong and beautiful in the <hi>Propontis:</hi>
+               </p>
+               <p>
+                  <hi>Arce, Maenibus, portu, turribusque marmoreis illustris.</hi> The stones of whose ruines, by an Earth-quake are car<g ref="char:EOLhyphen"/>ried daily to <hi>Constantinople.</hi> 12 <hi>Abydos</hi> on the North<g ref="char:EOLhyphen"/>west of the <hi>Hellespont,</hi> over against <hi>Sestos,</hi> fortified with two Castles which defend <hi>Constantinople</hi> on that side from all force by Sea.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>Phrygia</hi> the greater, or <hi>Aidin-Ills,</hi>
+               </head>
+               <p>
+                  <hi> W. My<g ref="char:EOLhyphen"/>sia N. S. Pontus</hi> and <hi>Lydia E. Galatia;</hi> the Inhabitants famous for afterwit, whence <hi>serò sapiunt Phryges:</hi> and their
+<note n="*" place="margin">
+                     <hi>Aristotle</hi> saith, there are 3 sorts. 1 <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Grave of Spondees. 2 <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> active of da<g ref="char:EOLhyphen"/>ctyles. 3 <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. The husband<g ref="char:EOLhyphen"/>mans plow and oxen, ty<g ref="char:EOLhyphen"/>ed in a knot.</note>
+                  <hi>Enthusiastick</hi> and fantastick musick, which (ac<g ref="char:EOLhyphen"/>cording to <hi>Tullies Mutatâ Musicâ mutantur mons</hi>) had a great influence upon their manners. And the Coun<g ref="char:EOLhyphen"/>try fruitful by the Rivers. 1 <hi>Sangarius.</hi> 2 <hi>Marsias.</hi> The town 1 <hi>Mydeum</hi> from <hi>Mydas,</hi> who because he de<g ref="char:EOLhyphen"/>sired all should be turned to gold he touched, starved because his meat was so, 2 <hi>Colloss. vid. Epist. ad Col.</hi> 3 <hi>Pesinus.</hi> 4 <hi>Gordion,</hi> where the knot which <hi>Alexander</hi> cut with his sword was.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>Armenia</hi>
+               </head>
+               <p> surrounded with <hi>Taurus, Mons Scordiscus,</hi> and <hi>Euphrates,</hi> and the black River <hi>Melas;</hi> with <hi>Arabyssus,</hi> where <hi>Chrysostome</hi> was banished by <hi>Eu<g ref="char:EOLhyphen"/>doxia. Melitone,</hi> now <hi>Suur,</hi> famous for Wines and Oyls. 3 Strong <hi>Gornuce, Nicopolis,</hi> and <hi>Oromundus.</hi>
+               </p>
+            </div>
+            <pb n="5" facs="tcp:207122:8"/>
+            <div n="9" type="part">
+               <head>IX. <hi>Cappadociae,</hi> now called <hi>Amasia,</hi>
+               </head>
+               <p>
+                  <hi> E. S.</hi> both <hi>Ar<g ref="char:EOLhyphen"/>meniaes</hi> and <hi>Lycaonia, N. W. Galatia</hi> and the Sea; rich in wines fruits, mines of Silver, Iron, Brasse, Allum, besides Alabaster, Chrystal, Jasper, and the Onyx stone, and horses; the people wicked, whence <hi>tria</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>Cappa cacista,</hi> and venomous poysoning their very Serpents.</p>
+               <p>The Towns, 1 <hi>Nyssa,</hi> whence <hi>Gr. Nyssenus.</hi> 2 <hi>Nazian<g ref="char:EOLhyphen"/>zum,</hi> whence <hi>G. Naz.</hi> 3 <hi>Mazaca,</hi> St. <hi>Basils</hi> See. 4 <hi>Ty<g ref="char:EOLhyphen"/>ana.</hi> 5. <hi>Archelais.</hi> 6 <hi>Comana.</hi> 7 <hi>Diocaesarea.</hi> 8 <hi>Faustino<g ref="char:EOLhyphen"/>polis.</hi> 9 <hi>Andraca.</hi> 10 <hi>Salambria.</hi> 11 <hi>Erxirum</hi> the Ren<g ref="char:EOLhyphen"/>dezvouz of the <hi>Turks</hi> in their expeditions against the <hi>Persians.</hi> 12 <hi>Pterium</hi> on the River <hi>Iris,</hi> yielding yearly to the <hi>Turk</hi> and his <hi>Beglerbey</hi> of Anatolia 60000 Du<g ref="char:EOLhyphen"/>cats.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>Asia,</hi> properly so called, now <hi>Sarchan</hi> or <hi>Procon<g ref="char:EOLhyphen"/>sula;</hi>
+               </head>
+               <p>
+                  <hi> Asia E. N. Lydia</hi> and <hi>Mysia S. W. Caria</hi> and the <hi>Aegean;</hi> where 1 <hi>Pitane</hi> on a River of that name, where they made bricks to swim. 2 <hi>Acarnea,</hi> where the Tyrant <hi>Hermias</hi> was baited in Oxes hide. 3 <hi>Elea,</hi> on the mouth of <hi>Caicus,</hi> Port to <hi>Pergamus.</hi> 4 <hi>Cene,</hi> or <hi>Canna.</hi> 5 <hi>Cuma,</hi> where <hi>Sybilla Cumaea.</hi> 6 <hi>Phocaa,</hi> called so from the Sea-calves, there called <hi>Phocae.</hi> 7 <hi>Myas</hi>
+                  <note n="*" place="margin">The place given by <hi>Ar<g ref="char:EOLhyphen"/>tanerxes</hi> to <hi>Themistocles,</hi> when he fled from <hi>Athens;</hi> at which the Emperour was so over<g ref="char:EOLhyphen"/>joyed, that he would cry in his sleep.</note> destroyed by Flyes. 8 <hi>Erythra,</hi> whence <hi>Sybilla Erithaea.</hi> 9 <hi>Lebedos.</hi> 10 <hi>Clazomone</hi> of much esteem for good wines 11 <hi>Prieno.</hi> 12 <hi>Ipsus.</hi> 13 <hi>Teos Anacreons</hi> birth place. 14 <hi>Smyrna,</hi> a fair City on a Bay of the name, hanging over the Sea hill-wayes. One of the 7 Churches in the <hi>Revelations,</hi> and much traded to for Chamlets, Grograins, and such Stuffs, made at <hi>Ancyra,</hi> besides wines; here the <hi>English</hi> have a Consul. 15 <hi>Colophon,</hi> which put an end to any war that they were ingaged in, whence the phrase <hi>Colophonem addere:</hi>
+                  <q>
+                     <l>Septem Ʋrbes certant de stirpe insignis homeri,</l>
+                     <l>Smyrna, Rhodos, Colophon, Salamis, Chios, Argos Athenae.</l>
+                  </q> 16 <hi>Ephesus,</hi> metropolis of <hi>Asia,</hi> one of the seven Churches, and memorable for <hi>Diana</hi>'s Temple, 425 foot long, 220 broad, supported with 127 Marble Pil<g ref="char:EOLhyphen"/>lars 70 foot high. 200 years in building; 7 times fired,
+<pb n="6" facs="tcp:207122:9"/>the last time by <hi>Herostratus,</hi> the night <hi>Alexander</hi> was born, <hi>Diana</hi> the Goddess of Mid-wifery being at his labour.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI. <hi>Curia,</hi>
+               </head>
+               <p>
+                  <hi> N. E. Lycia, Lydia,</hi> and <hi>Ionia S. W.</hi> the <hi>Aegean</hi> and <hi>Carpathian</hi> Sea, where Auguty was first in<g ref="char:EOLhyphen"/>vented, and Astronomy
+<note n="*" place="margin">By the same token that <hi>Endymion</hi> the Astronomer here is seign<g ref="char:EOLhyphen"/>ed the Moons sweet heart, she kissed in his sleep.</note>: Here besides the River <hi>Sal<g ref="char:EOLhyphen"/>macis,</hi> that weakens those that drink it, is the City <hi>Mi<g ref="char:EOLhyphen"/>letus, Acts</hi> 20.10. <hi>Thales</hi> birth-place, <hi>Iren. l.</hi> 3. <hi>c.</hi> 14. 2 <hi>Mindus,</hi> that was in danger of running out of the Gates. 3 <hi>Heraclea ad latmum.</hi> 4 <hi>Borgillia.</hi> 5 <hi>Milasa.</hi> 6 <hi>Primassus,</hi> which <hi>Philip</hi> of <hi>Macedon</hi> took with a coun<g ref="char:EOLhyphen"/>terfeit mine. 7 <hi>Cnidus,</hi> famous for a Marble Image of <hi>Venus.</hi> 8 <hi>Cressa.</hi> 9 <hi>Halicarnassus</hi> where <hi>Mausolus</hi> his tomb, one of the seaven wonders of the World, built by his Wife, was <hi>Mart. Epig.</hi> 1.1.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII. <hi>Lydia</hi>
+               </head>
+               <p>
+                  <hi> S. E. Phrygia M.</hi> and <hi>Coria N. W. Asia propriè dicta,</hi> and the greater <hi>Mysia;</hi> the first Inven<g ref="char:EOLhyphen"/>tors of Coyning, Pedling, Huckstering and Gaming were these people, who found out gaming to divert their hunger. The Hills, 1 <hi>Siphylus.</hi> 2 <hi>Tinolus</hi> covered with Vines and Saffron, on the Rivers, 1 <hi>Her<g ref="char:EOLhyphen"/>mus.</hi> 2 <hi>Caystrus.</hi> 3 <hi>Pactolus</hi> and its golden sands. 4 Crooked <hi>Maeander,</hi> and inriched with Gold, Silver and Gems; the Cities, 1 <hi>Sardis,</hi> the taking of which by the <hi>Graecians</hi> so startled <hi>Xerxes,</hi> that he caused it to be said every day at his Table, (as it was every year in the Parliament of <hi>Paris</hi> about <hi>Calice</hi>) the <hi>Graecians</hi> have taken <hi>Sardis.</hi> 2 <hi>Philadelphia.</hi> 3 <hi>Thyatira.</hi> 4 <hi>Laodiceia.</hi> 5 Of the <hi>Asian</hi> Churches. 6 The 2 <hi>Maynesia's.</hi> 7 <hi>Alaban<g ref="char:EOLhyphen"/>da,</hi> and 7
+<note n="*" place="margin">To the In<g ref="char:EOLhyphen"/>habitants, whereof <hi>Ignatius</hi> writ his Epistle <hi>ad Trallenses.</hi>
+                  </note>
+                  <hi>Trall</hi> is on the Banks of <hi>Caistrus.</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII. <hi>Lycia,</hi>
+               </head>
+               <p> environed on three sides, with the Mountain <hi>Taurus</hi> (and shut in on the 4<seg rend="sup">th</seg> with the <hi>Me<g ref="char:EOLhyphen"/>diterranian</hi>) famous for that branch of <hi>Taurus,</hi> here cal<g ref="char:EOLhyphen"/>led <hi>Chymaera;</hi> and 1 the City <hi>Mira, Acts</hi> 27.5. 2 <hi>Tel<g ref="char:EOLhyphen"/>mesus,</hi> and its Southsayers. 3 <hi>Pratius</hi> and its fair haven. 4 <hi>Phaselis</hi> with its Pyrates, and Brigantines. 5 <hi>Cragus,</hi> under a Mountain of the name. 6 <hi>Aenonda.</hi> 7 <hi>Corydilla.</hi> 8 <hi>Rhodia.</hi> 9 <hi>Solyma;</hi> all these now a Part of the King<g ref="char:EOLhyphen"/>dome of <hi>Caramania.</hi>
+               </p>
+            </div>
+            <div n="14" type="part">
+               <pb n="7" facs="tcp:207122:9"/>
+               <head>XIV. <hi>Lycaonia</hi>
+               </head>
+               <p>
+                  <hi>S. E. Armenia minor,</hi> and <hi>Pisidia N. W. Cappadocia,</hi> and <hi>Phrygia major;</hi> where is, 1 <hi>Iconium,</hi> now <hi>Coynri,</hi> scituated advantagiously in the Mountains for desence and safety. 2 <hi>Lystra, Acts</hi> 14.19, 20. 3 <hi>Derbe.</hi> 4 <hi>Laranda.</hi> 5 <hi>Adopistus.</hi> 6 <hi>Paralais.</hi> 7 <hi>Camara,</hi> and 8 <hi>Ca<g ref="char:EOLhyphen"/>ratha.</hi>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV. <hi>Pasidia</hi>
+               </head>
+               <p>
+                  <hi>N. Lycaonia, E. Armenia</hi> the less, <hi>W. Lycia, S. Pamphilia</hi> and <hi>Cilicia;</hi> where is 1 old <hi>Antioch, Acts</hi> 4. 2 Impenetrable <hi>Seleucia,</hi> and <hi>Termessus.</hi> 3 Fruit<g ref="char:EOLhyphen"/>full and pleasant <hi>Sagalassa, Selge, Cremna,</hi> and <hi>Lysinia.</hi>
+               </p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI. <hi>Isauria</hi>
+               </head>
+               <p>
+                  <hi>E. S. Cilicia</hi> on both sides <hi>Taurus,</hi> plentifull in Vines and other rich products, about the River <hi>Calecadnus,</hi> where besides the ruined <hi>Isauria,</hi> is the rich and well-traded <hi>Seleucia,</hi> and <hi>Claudipolis.</hi>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII. <hi>Cilicia</hi>
+               </head>
+               <p>
+                  <hi>S. Mediterranian</hi> and <hi>Syria,</hi> rich in Soyl, and conveniently scituated on the Sea-coast for Trade; but meanly
+<note n="*" place="margin">Here are the <hi>Squilachi,</hi> a mixt creature between a Dog and a Cat, that steal peoples cloaths.</note> inhabited, and therefore yielding only Goats, Sheep, Butter and Cheese, with good Horses, where 600 are yearly called for the Grand-Seigniours Service, where (besides the Rivers thun<g ref="char:EOLhyphen"/>dering <hi>Pyramis</hi> now <hi>Malmistra.</hi> 2 <hi>Orymasdus.</hi> 3 <hi>Caly<g ref="char:EOLhyphen"/>cadnus.</hi> 4 Cold <hi>Cidnus,</hi> that cureth the Gout; and the impassable Streights, called <hi>Pylae Ciliciae</hi>) are the Cities, 1 <hi>Solae,</hi> where <hi>Pompey</hi> setled the Pyrates in an honest way of livelihood. 2 <hi>Tarsus,</hi> now <hi>Tersia</hi> and <hi>Hamsa,</hi> St. <hi>Pauls</hi> birth-place on the banks of <hi>Cydnus</hi> to this day strong and wealth. 3 <hi>Epiphania.</hi> 4 <hi>Mopsuestia.</hi> 5 <hi>An<g ref="char:EOLhyphen"/>chiala</hi> on the Sea side neer the Promontory <hi>Zephyrium.</hi> 6 unwalled, but well
+<note n="†" place="margin">By the <hi>Castle</hi> adjoyning.</note> defended <hi>Adena,</hi> well known to the Travellers over
+<note n="*" place="margin">Who take in here 3 days provision. Especially to those that have not been used to it.</note>
+                  <hi>Taurus,</hi> for its plentiful provision of Wine and Corn. 7 Famous <hi>Issus,</hi> now <hi>Aiazzo</hi> on the Bay called <hi>Golfo di Aaiazzo.</hi> 8 Unwholesom, Fenny, but commodiously seated, and traded <hi>Alexandria,</hi> now a few houses of straw and mud; the nearest Haven to the Bay of <hi>Aleppo,</hi> and called <hi>Scanderoon.</hi> 9 <hi>Nicopolis.</hi> 10 <hi>Amavarza.</hi> 11 Fair and large <hi>Heraclea.</hi> 12 <hi>Scan<g ref="char:EOLhyphen"/>delow.</hi>
+               </p>
+            </div>
+            <div n="18" type="part">
+               <pb n="8" facs="tcp:207122:10"/>
+               <head>XVIII. The Isles of <hi>Asia minor,</hi>
+               </head>
+               <p> from the mouth of the <hi>Hedespont</hi> to <hi>Rhodes;</hi> among which, 1 <hi>Tenedos</hi>
+                  <note n="*" place="margin">
+                     <hi>Tenedia secu<g ref="char:EOLhyphen"/>ris</hi> hatched, carried at the Judges back, to mind them of ju<g ref="char:EOLhyphen"/>stice.</note> over against <hi>Sigeum,</hi> now Cape <hi>Janizarie,</hi> 10 miles round producing good Wine and Crab-fish, with a Town of the name;
+<q>Nunc tantum sinus &amp; statio malesida Carinis.</q> 2 <hi>Lesbos</hi> 168 miles round <hi>S. W.</hi> Barren. <hi>N. E.</hi> Level and fruitful, with excellent Corn, and delicious Wine, where is <hi>Lesbos.</hi> 2 <hi>Methymna.</hi> 3 <hi>Mytelene,</hi> Seated on a Peninsula, a commodious Haven on the North-side for Gallies, <hi>S.</hi> for other ships, well fortified by Art and Nature, with a strong Castle, and a well stored Arsenal. 4 <hi>Vasilica.</hi> 5 <hi>Theodori.</hi> 6 <hi>Castle-Gera.</hi> 3 <hi>Chios,</hi> over against the shore of <hi>Jonia</hi> 126 miles compass, the only place for Mastick, a gum cut out of the bark of the <hi>Lentisne</hi> tree in <hi>July</hi> and <hi>August,</hi> and gathered in <hi>September,</hi> yielding 18000 Sultanies yearly; besides, good for Corn, Oyl, Marble, some Silks, and Cotton wooll, short of those in <hi>Smyrna;</hi> Honey, and most delicious wines, with an infinite store of red tame <hi>Par<g ref="char:EOLhyphen"/>tridges;</hi> the inhabitants merry <hi>Greeks,</hi> and grave <hi>Genoese:</hi> the most eminent places here, 1 <hi>Pigrine.</hi> 2 <hi>St. Elias.</hi> 3 <hi>Chios</hi> now <hi>Sio,</hi> full of Oranges, Lemons, Pomegranates, Ci<g ref="char:EOLhyphen"/>trons, on a good Haven, secured by a Garrison,
+<note n="*" place="margin">So watch<g ref="char:EOLhyphen"/>ful, that there goeth a word round the Ca<g ref="char:EOLhyphen"/>stle every mi<g ref="char:EOLhyphen"/>nute.</note> and watch-towers on the shore, and directed to by a <hi>Lan<g ref="char:EOLhyphen"/>terne.</hi> 4 <hi>Samos S. E. Chios,</hi> 85 miles about, abounding with Oyl, and Olives, with a medicinal earth, called <hi>terra samia;</hi> store of timber, on a fair and capacious Haven, much infested with Pyrats. 5 <hi>Iscaria,</hi> now <hi>Ni<g ref="char:EOLhyphen"/>ceria. W. Samos</hi> 37 miles round, neighboured by two dangerous rocks, abounding with Pasture and Corn : no Haven, but good Roads:
+<q>Icarus Icari is nomina fecit aquis.</q> 6 <hi>Palmos,</hi>
+                  <note n="†" place="margin">The inhabi<g ref="char:EOLhyphen"/>tants poynt the Cave where the Revelation was writ, shewing St. <hi>Johns</hi> hand, the nails whereof grow again as fast as cut.</note> now <hi>Palmosa,</hi> fruitful in Wheat and Pulse, with a fair Haven. 7 <hi>Claros</hi> and <hi>Lero,</hi> where abundance of Aloes and good harbours. 8 <hi>Coos, Cos,</hi> or <hi>Cous,</hi> a le<g ref="char:EOLhyphen"/>vel in that part of the <hi>Aegean,</hi> called the <hi>Myrtoan-Sea,</hi> now <hi>Lange,</hi> famous for Tiffanies, <hi>Vinum Cos, Cypres-trees,
+<pb n="9" facs="tcp:207122:10"/>Turpentine,</hi> and its sweet springs, 70 mile circuit; fa<g ref="char:EOLhyphen"/>mous for <hi>Aesculapius</hi> his Temple, and <hi>Hippocrates</hi> his Birth. <hi>Carpathres S. Caria</hi> in the <hi>Mediterranian</hi> 60 miles compass, happy in its Marble and Ports, especially neer <hi>Scarpanto.</hi> 9 <hi>Rhodes</hi> over against <hi>Lycia</hi> 140 miles round, of a most temperate air, and most fruitfull and pleasant soyl, the Sun every day shining upon it; where is <hi>Lindum</hi> now <hi>Lindo</hi> a petty town; <hi>Rhodes</hi> on the East of the Isle, on the side of a hill near the Sea, with a safe and commodious Haven treble walled,
+<note n="*" place="margin">This, and <hi>Famagusta</hi> in <hi>Cyprus,</hi> being the strongest places be<g ref="char:EOLhyphen"/>longing to the Turk.</note> fortified with 13 Turrets, and 5 strong Bull-works, besides sconces and outworks; Here was the Colosse 7 Cubits high, each finger as big as a man, 12 years in building, and one of the 7 Wonders, whence it was called <hi>Colossa.</hi>
+               </p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX. <hi>Cyprus</hi>
+               </head>
+               <p> 550 miles round on the <hi>Cilician</hi> and <hi>Syrian</hi> Seas, from each main Land above 60 miles, ha<g ref="char:EOLhyphen"/>ving 10 Promontories, and having had 10 names, as famous for Cypresses as <hi>Rhodes</hi> is for Roses, under the 4<seg rend="sup">th</seg> Climate, hot, abounding with Wine, Oyl, Corn, Sugar, Cotton, Honey, Wool, Turpentine, Al<g ref="char:EOLhyphen"/>lom, Verdegreese, all sorts of Mettals, store of Salt, Grograins; besides <hi>Lycus</hi> and <hi>Lapithes</hi> small Torrents, and some springs running from <hi>Olympus,</hi>
+                  <note n="*" place="margin">Called now the Mountain of the Holy Cross.</note> which is here 54 Italian miles round, loaded with Trees and Fruits of all sorts, where is ruined <hi>Paphos,</hi> now called new <hi>Paphos</hi> and <hi>Baffo,</hi> on the Sea side. 2 <hi>Arsino.</hi> 3 <hi>Tre<g ref="char:EOLhyphen"/>pano,</hi> a well seated, and traded port. 4 <hi>Connelia</hi> rich in Sugar, and Cotton Wool. 5 <hi>Cithera.</hi> 6 <hi>Amathus.</hi> 7 <hi>Epi<g ref="char:EOLhyphen"/>scopio</hi> a considerable place neer the Promontory <hi>Curias.</hi> 8 <hi>Salines</hi> and its rich Salt-pits. 9 Strong <hi>Nicosia,</hi> in the midst of the Isle, both pleasantly and fruitfully sci<g ref="char:EOLhyphen"/>tuated, and exactly round. 10 Wholesome <hi>Cerines</hi> neer the Sea; 1 <hi>Famagusta</hi> raised out of the Ruines of <hi>Sa<g ref="char:EOLhyphen"/>lamis</hi> in the <hi>E.</hi> end of the Island in a plain and low ground, between two Promontories, <hi>Cape St. Andrew,</hi> and <hi>Capo de Griego</hi> 4 square, 2 miles about, with a ha<g ref="char:EOLhyphen"/>ven (opposite to <hi>Tripolis</hi> in <hi>Syria</hi>) opening towards the South-East, defended from the injury of the Sea by two
+<pb n="10" facs="tcp:207122:11"/>great Rocks, betwixt which the Sea cometh in at a nar<g ref="char:EOLhyphen"/>row passage, not above 40 paces broad, but after open<g ref="char:EOLhyphen"/>ing wider and wider, to a conveniency of safety and capacity assured both by the difficult Entrance, and a Chain crossed over it. 12 <hi>Arsinoe,</hi> now called <hi>Lescare.</hi> 13 <hi>Tamassus,</hi> eminent for brasse mines, and a great quan<g ref="char:EOLhyphen"/>tity of Verdegreese, and <hi>Vitriol</hi> found neer it. 14 <hi>Idalium,</hi> the yearly custome upon Salt is here 500000 Crowns.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX. <hi>Syria,</hi>
+               </head>
+               <p>
+                  <hi>W. Mediterranean, S. Palestine</hi> and <hi>Ara<g ref="char:EOLhyphen"/>bia E. Euphrates, N. Cilicia,</hi> and the lesser <hi>Armenia;</hi> 525 miles long from <hi>Taurus</hi> to <hi>Arabia.</hi> 470 miles broad from the <hi>Mediterranean</hi> to <hi>Euphrates,</hi> the language <hi>Ara<g ref="char:EOLhyphen"/>bick,</hi> the religion Christian, Mahumetan, Pagan, or a mixture of all professed by the <hi>Drusians:</hi> the prime Ri<g ref="char:EOLhyphen"/>vers, 1 <hi>Chorsaeus</hi> or <hi>Chison.</hi> 2 <hi>Orontes</hi> now <hi>Saldino.</hi> 3 <hi>Eleu<g ref="char:EOLhyphen"/>therios</hi> now called <hi>Casmar.</hi> 4 <hi>Singos.</hi> 5 <hi>Euphrates:</hi> the Mountains, 1 <hi>Carmel.</hi> 2 <hi>Piena.</hi> 3 <hi>Casius,</hi> four miles high. 4 <hi>Libanus,</hi> famous for Cedars, Frankincense and Ho<g ref="char:EOLhyphen"/>ney falling on the boughs of the trees; 150 miles long from <hi>Sidon</hi> in <hi>Phaenicia,</hi> to <hi>Smyrna</hi> in <hi>Caelosyria,</hi> inhabited by Maronite Christians, that pay the Grand-Seignior 17 Sultanies a man when above 12 years of age.</p>
+               <p n="1">1. In <hi>Phaenicia,</hi> a maritine part of <hi>Syria</hi> of great traffique, formerly was 1 the famous port <hi>Ptolemais</hi> razed to the ground, 1291. 2 And the ancient Mart of <hi>Tyre.</hi> 3 <hi>Sarepta</hi> or <hi>Sarphath</hi> on the Sea-coast, be<g ref="char:EOLhyphen"/>tween <hi>Tyre</hi> and <hi>Sidon,</hi> and its good wines. 4 <hi>Sidon,</hi> in a rich valley between <hi>Libanus</hi> Northward, and <hi>Antiliba<g ref="char:EOLhyphen"/>nus</hi> Southward; the inhabitants whereof, the first ma<g ref="char:EOLhyphen"/>kers of <hi>Chrystal Glass, Zech.</hi> 9.2. the matter thereof flowing thither from the adjoyning Rivers, with an haven for Gallies, and a Block-house. 5 <hi>Bunitus.</hi> 6 <hi>Bi<g ref="char:EOLhyphen"/>blis.</hi> 7 <hi>Orthosia</hi> lately <hi>Tortosa.</hi> 8 <hi>Tripolis,</hi> eminent for Amaza Franki, Kell-franhe, and other fruits, and two miles from the Sea, and half a mile from the ha<g ref="char:EOLhyphen"/>ven on the west-side of it; rich in Gardens, Springs, and Silk-worms, whose Silks they sell raw to the <hi>Ita<g ref="char:EOLhyphen"/>lians,</hi> and much increased by the trade of <hi>Scanderoon,</hi> and well fortified.</p>
+               <pb n="11" facs="tcp:207122:11"/>
+               <p n="2">2. In <hi>Syria,</hi> properly so called, <hi>S. Phaenicia;</hi> rich in 1 Fruits, especially Figs, hanging about the high ways. 2 Sheep with great tails, weighing 25 pound and up<g ref="char:EOLhyphen"/>wards; &amp; 3 great store of Cotton-wool: is 1 <hi>Rugia.</hi> 2 <hi>Hi<g ref="char:EOLhyphen"/>crapolis.</hi> 3 <hi>Barbarssus.</hi> 4 <hi>Chalcis.</hi> 5 <hi>Telnedissa.</hi> 6 <hi>Laodicea</hi> and its good wines. 7 <hi>Apamea.</hi> 8 <hi>Emesa</hi> or <hi>Hamse</hi> in a spacious and fruitful plain, and well watered. 9 <hi>Epi<g ref="char:EOLhyphen"/>phania.</hi> 10 <hi>Laris.</hi> 11 <hi>Gebal, Ps.</hi> 83, now <hi>Gabella.</hi> 12 <hi>Ara<g ref="char:EOLhyphen"/>dus.</hi> 13 <hi>Daphne.</hi> 14 <hi>Antioch</hi> seated on both sides the River <hi>Orontis,</hi> twelve miles from the <hi>Mediterranean,</hi> the River <hi>Parsar</hi> passing on the South-side of it, now ruined. 15 <hi>Alburia.</hi>
+               </p>
+               <p n="3">3. In <hi>Comagena E. Euphrates</hi> and <hi>Mesopotamia, W. Amamus</hi> and <hi>Cilicia. N. Taurus</hi> and <hi>Armenia</hi> the less, a place famous for Divination, was <hi>Samosata.</hi> 2 <hi>Germa<g ref="char:EOLhyphen"/>nica.</hi> 3 <hi>Singa.</hi> 4 <hi>Pinora.</hi> 5 <hi>Aleppo,</hi> the Aleph or first of <hi>Syria,</hi> on the bank of <hi>Singas,</hi> kept up, because commo<g ref="char:EOLhyphen"/>diously scituated for the trade of the whole world be<g ref="char:EOLhyphen"/>tween three ports of <hi>Tripolis, Berytus,</hi> and <hi>Alexa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dretta</hi> in <hi>Turkey,</hi> besides the <hi>Persian</hi> Territories, where the <hi>English</hi> Merchants have three houses for stowage, and a coul; the building low, and arched before their doors, and the scite pleasant among Gardens, and secure ra<g ref="char:EOLhyphen"/>ther than strong. 6 <hi>Aman</hi> between <hi>Tripoli</hi> and <hi>Aleppo,</hi> pleasantly seated on two Hills, and environed with Orchards of Palme trees, and very good fruits. 7 <hi>Byr<g ref="char:EOLhyphen"/>rah</hi> and those places, <hi>Esr.</hi> 37.13. 2 <hi>Kings.</hi> 18.34.</p>
+               <p n="4">4. In <hi>Palmyrene, N. Comagena</hi> wholesome for hot Springs, but not well Rivered, is 1 <hi>Palmyra,</hi> see 1 <hi>Chron.</hi> 8.4. 2 <hi>Sura.</hi> 3 <hi>Alamath.</hi>
+               </p>
+               <p n="5">5. In <hi>Caelosyria</hi> the <hi>Syria</hi> so much spoken of in the Books of <hi>Kings</hi> and <hi>Chronicles,</hi> is, 1 <hi>Heliopolis,</hi> now <hi>Bal<g ref="char:EOLhyphen"/>bec.</hi> 2 <hi>Chalcis,</hi> west of <hi>Damascus</hi> in the shades of <hi>Libanus.</hi> 3 <hi>Abila.</hi> 4 <hi>Adida.</hi> 5 <hi>Capitolias,</hi> now <hi>Suente.</hi> 6 <hi>Damas<g ref="char:EOLhyphen"/>cus</hi> scituate in a large plain, environed with hills, and watered with the River <hi>Chrysorrous,</hi> watering the Or<g ref="char:EOLhyphen"/>chards and Gardens, whence we have excellent wines; the luscious Damascenes, the sweet Damask Roses, and the curious Damask works.</p>
+               <pb n="12" facs="tcp:207122:12"/>
+               <p n="7">7. <hi>Eden,</hi> at the foot of <hi>Libanus.</hi>
+               </p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI. From <hi>Caelosyria,</hi> over <hi>Hermon</hi> we go to <hi>Palestine,</hi>
+               </head>
+               <p>
+                  <hi> W. Mediterranean, N. Antilibanus, S. Arabia Petrea;</hi> under the third and fourth clime, 200 miles long, and 80 broad, where are first Rivers, 1 <hi>Chison.</hi> 2 <hi>Kidron.</hi> 3 <hi>Zared</hi> and <hi>Naphthea.</hi> 4 <hi>Arnon.</hi> 5 <hi>Jaboc.</hi> 6 <hi>Hermon.</hi> 7 <hi>Jordan,</hi> surrounded with Poplars, Tama<g ref="char:EOLhyphen"/>rishes and Reeds of all sorts, and passing through the Lake of <hi>Tiberias</hi> without mixture with it into the <hi>Me<g ref="char:EOLhyphen"/>diterranean,</hi> and the dead Sea. Secondly, Hills, <hi>Sion.</hi> 2 <hi>Moriah.</hi> 3 <hi>Calvari.</hi> 4 <hi>Tabor.</hi> 5 <hi>Olivet.</hi> 6 <hi>Gerizim.</hi> 7 <hi>Sa<g ref="char:EOLhyphen"/>von,</hi> now <hi>Capo Bianco</hi> with its Rosemary, Sweet Mayjo<g ref="char:EOLhyphen"/>rum, Hyssop, Bayes, and other odoriferous plants, be<g ref="char:EOLhyphen"/>sides Leopards, <hi>&amp;c.</hi> 8 <hi>Gilboa.</hi> 9 <hi>Basan.</hi> 10 And <hi>Aba<g ref="char:EOLhyphen"/>rim.</hi>
+               </p>
+               <p n="1">1. In <hi>Peraa,</hi> a Part of <hi>Palestine</hi> between <hi>Jordan</hi> and <hi>Arnon,</hi> from <hi>Pella N.</hi> to <hi>Petra S.</hi> was 1 <hi>Recome,</hi> 2 Kings 14.7. 2 <hi>Midian.</hi> 3 <hi>Rabbat.</hi> 4 <hi>Diblathan.</hi> 5 <hi>Gallim.</hi> 6 <hi>Mu<g ref="char:EOLhyphen"/>thana.</hi> 7 <hi>Nathaliel.</hi> 8 <hi>Bamath.</hi> 9 <hi>Mizpah.</hi> 10 <hi>Hor.</hi> 11 <hi>Kir-harasath.</hi> 12 <hi>Rabbah.</hi> 13 <hi>Dathema.</hi> 14 <hi>Minneth,</hi> 15 <hi>Abel vinearum.</hi> 16 <hi>Mitspa.</hi> 17 <hi>Magod.</hi> 18 <hi>Bosor.</hi> 19 <hi>Abel shittim.</hi> 20 <hi>Bethbara.</hi> 21 <hi>Machaerus.</hi> 22 <hi>Lesha.</hi> 23 <hi>Midibuh.</hi> 24 <hi>Bosor.</hi> 25 <hi>Livias.</hi> 26 <hi>Libias.</hi> 27 <hi>Hede<g ref="char:EOLhyphen"/>math.</hi> 28 <hi>Bamath Baal.</hi> 29 <hi>Heshbon.</hi> 30. <hi>Adam.</hi> 31. <hi>A<g ref="char:EOLhyphen"/>roer.</hi> 32 <hi>Dihon.</hi> 33 <hi>Bethnimrah.</hi> 34. <hi>Nolloroh.</hi> 35 <hi>Beth<g ref="char:EOLhyphen"/>haran.</hi> 36 <hi>Beth-ezob.</hi> 37. <hi>Succoth</hi> 38 <hi>Jazor.</hi> 39 <hi>Maha<g ref="char:EOLhyphen"/>naim.</hi> 40 <hi>Rogelim.</hi> 41 <hi>Ramoth Gilead.</hi> 42 <hi>Penuel.</hi>
+               </p>
+               <p n="2">2. In <hi>Ituraea</hi> another Province, ragged, rude, and given to witch-craft; 1 <hi>Hippus.</hi> 2 <hi>Bathira.</hi> 3 <hi>Pella.</hi> 4 <hi>Edrey.</hi> 5 <hi>Carnaim.</hi> 6 <hi>Ephron.</hi> 7 <hi>Jabesh Gilead.</hi> 8 <hi>Ash<g ref="char:EOLhyphen"/>teroth.</hi> 9 <hi>Gaulon.</hi> 10 <hi>Gamala.</hi> 11 <hi>Gadara.</hi> 12 <hi>Gergesa.</hi> 13 <hi>Juleus.</hi> 14 <hi>Abel.</hi> 15 <hi>Gessur.</hi> 16 <hi>Mahacath.</hi> 17 <hi>Chau<g ref="char:EOLhyphen"/>ran.</hi> 18 <hi>Chalsar Havan.</hi> 19 <hi>Ʋs.</hi> 20 <hi>Sueta.</hi>
+               </p>
+               <p n="3">3. In <hi>Galilee,</hi> rich with all manner of fruit, was 1 <hi>Ha<g ref="char:EOLhyphen"/>zor,</hi> now <hi>Antronia.</hi> 2 <hi>Capernaum,</hi> a poor fisher-town. 3 <hi>Hamath.</hi> 4 <hi>Kadesh.</hi> 5 <hi>Riblah.</hi> 6 <hi>Saphet,</hi> the onely place where the Jewes have the face of a Common-Wealth. 7 <hi>Bethsomes, Carthan, Musoloth</hi> and <hi>Cinereth.</hi> 8 <hi>Ascheche,
+<pb n="13" facs="tcp:207122:12"/>Gabula, Giscala, Cana, Messal</hi> pleasantly seated, and of great importance. 9 <hi>Jokneham, Zabulon, Cana-major, Bar<g ref="char:EOLhyphen"/>sabe, Dothan, Bethsaida, Nazareth, Jotopata, Tiberis, Be<g ref="char:EOLhyphen"/>thulia, Japha, Sephoris.</hi> 10 <hi>Tanihaea, Chishion, Remelh, En<g ref="char:EOLhyphen"/>hadda, Naim, Aphraim, Daborath</hi> the Castle of Pil<g ref="char:EOLhyphen"/>grims, now <hi>Tortora.</hi>
+               </p>
+               <p n="4">4. In <hi>Samaria,</hi> rich in Pastures, Cattle, and fruits, is <hi>Bethsan,</hi> on the banks of <hi>Jordan,</hi> out of whose ruines many pillars, and other pieces of marble are drawn out. 2 <hi>Thirza.</hi> 3 <hi>Acrabula.</hi> 4 <hi>Thebes.</hi> 5 <hi>Ephra.</hi> 6 <hi>Be<g ref="char:EOLhyphen"/>zeke.</hi> 7 <hi>Jezreel.</hi> 8 <hi>Megiddo.</hi> 9 <hi>Dora.</hi> 10 <hi>Caesarea.</hi> 11 <hi>An<g ref="char:EOLhyphen"/>tipatris.</hi> 12 <hi>Saron,</hi> and <hi>Lidda,</hi> or <hi>Diospolis, Ramatha, Ajalon, Shempath, Cares, Silo, Bethoron, Michmas,</hi> now <hi>Byra, Sichem</hi> since <hi>Nicopolis, Samaria,</hi> famous for the marble pillars found there, now nothing but a few Cottages, filled with greek monks.</p>
+               <p n="5">5. In <hi>Judea,</hi> on the Sea coasts from the South of <hi>Phae<g ref="char:EOLhyphen"/>nicia,</hi> to the North of <hi>Idumaea,</hi> is 1 <hi>Gath</hi> and its New-Castle. 2 Wealthy and strong <hi>Accaron.</hi> 3 The fair village of <hi>Ashdod.</hi> 4 The goodly Sea-town, <hi>Ascalon,</hi> re<g ref="char:EOLhyphen"/>paired by <hi>Rich.</hi> I. King of <hi>England.</hi> 5 Wealthy <hi>Gaza,</hi> surrounded with its rich and pleasant vallies, and its Port <hi>Majoma.</hi> 6 <hi>JOppa, Joffa</hi> with two Turrets with <hi>Har<g ref="char:EOLhyphen"/>quebusses</hi> to defend the haven, which lies too open to the North-winds, whither Merchants trade for Cot<g ref="char:EOLhyphen"/>ton-wool, keeping their Factory at <hi>Rama</hi> on a sandy plain, in the rising of an hill. 7 <hi>Modin,</hi> where the <hi>Macchabees</hi> Sepulchre of seven Pillars, so that they are the Seamans marks. 7 <hi>Tzara.</hi> 9 Healthful <hi>Gerar</hi> in the south of <hi>Canaan.</hi> 10 <hi>Ziglag.</hi> 11 <hi>Coreath Sepher</hi> since <hi>Daema</hi> an old University. 12 The well fortified fron<g ref="char:EOLhyphen"/>tire-town <hi>Beersheba;</hi> besides those Cities of the Tribe of <hi>Judah:</hi> 1 <hi>Arad.</hi> 2 <hi>Hebron.</hi> 3 <hi>Tecoa.</hi> 4 <hi>Cerioth.</hi> 5 <hi>Je<g ref="char:EOLhyphen"/>ther</hi> or <hi>Jethica.</hi> 6 <hi>Maresa.</hi> 9 <hi>Emaus,</hi> and its hot baths. 8 <hi>Hason, Odalla, Keila, Eleutheropolis, Azeha, Bethsur, Zoar, Mussuda,</hi> the strongest place in <hi>Judaea, Libna, Ziph, Bethlem,</hi> places renowned for <hi>Balsom,</hi> and those of the Tribe of <hi>Benjamin;</hi> as 1 <hi>Michmas,</hi> 2 <hi>Mispah.</hi> 3 <hi>Geba.</hi>
+                  <pb n="14" facs="tcp:207122:13"/>4 <hi>Gibeah. Ai.</hi> 6 <hi>Gibeon.</hi> 7 <hi>Jericho. Anathoth. Gilgal.</hi> 10 <hi>Bethel; Ramath.</hi> 11 <hi>Jerusalem,</hi> to whose ruines many repair out of devotion, more out of curiosity, paying the Turk nine Crowns a man, amounting yearly to 80000 Ducats, only low roofed houses built here and there for two miles compass, looking handsomly at distance; inhabited by mean Artezans of all Nations and Reli<g ref="char:EOLhyphen"/>gions.</p>
+               <p n="6">6. In <hi>Idumea, E. S. Arabia Petraea, W. Mediterranean</hi> that dry and sandy place, bearing nothing but Palm<g ref="char:EOLhyphen"/>trees, besides the two Hills, Mount <hi>Seir</hi> and <hi>Cassius</hi> are remarkable, 1 <hi>Dinahahath,</hi> Gen. 36.32, 35, 37. 2 <hi>An<g ref="char:EOLhyphen"/>thedon,</hi> a port town on <hi>S.</hi> River <hi>Boser</hi> against <hi>Gaza.</hi> 3 Well fortified <hi>Rhino curura.</hi> 4 <hi>Ostracine,</hi> now <hi>Stragione</hi> on the Sea-side beneath <hi>Anthedon,</hi> and some few Vil<g ref="char:EOLhyphen"/>lages inhabited by <hi>Arabians,</hi> and Castles kept by the Turks in the way to <hi>Egypt;</hi> as 5 <hi>Hamones, Harista,</hi> and <hi>Cario,</hi> Custome houses near <hi>Gaza,</hi> so ill watered, that the chief men there have all their water from <hi>Tena,</hi> twelve miles off, on the Coast of <hi>Aegypt;</hi> all these places under the Turk, though inhabited by the hated Jews in many places, who every Easter are in danger of that death they inflicted on our Saviour, by reason of their <hi>Ʋsury</hi> and <hi>Brocage,</hi> together with their being the Turks Publicans, and Tax-gatherers, their Nation stinks, as much as they said their bodies do.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.
+<note n="*" place="margin">From <hi>Arab,</hi> black, or <hi>Ha<g ref="char:EOLhyphen"/>rab,</hi> a thief or wanderer, they living in Tents, and carried by Dromodaries.</note>
+                  <hi>Arabia</hi>
+               </head>
+               <p>
+                  <hi> E. Chaldea,</hi> and Gulph of <hi>Persia, W. Palestine</hi> and the <hi>Red Sea, N. Euphrates, S.</hi> Main Southern Ocean; the Language <hi>Arabick,</hi> which is the Language of most Mahumetan Countries, the <hi>Alcoran</hi> being <hi>Writ,</hi> and most of their offices performed in it.</p>
+               <p n="1">1. Hath in that Part called <hi>Arabia deserta,</hi> now <hi>Be<g ref="char:EOLhyphen"/>noni, E. Babylonia, N. Mesopotamia, W. Palestina, S. Arabia foelix, Jobs</hi> Country, onely one remarkable place (being nothing but Rocks and Deserts) and that is <hi>Semischusach</hi> formerly called <hi>Saba,</hi> and some other Villages peopled by the civil Moors.</p>
+               <pb n="15" facs="tcp:207122:13"/>
+               <p n="2">2. In the Rocky <hi>(Petrea)</hi> not travelled but in Car<g ref="char:EOLhyphen"/>vans only by Merchants with their Camels, who bring their food with them, the wandring and Idle Inhabi<g ref="char:EOLhyphen"/>tants having nothing but Milk, Herbs, and Venison; Besides, 1 Mount <hi>Sinai,</hi> where there is a mesque of Turkish Pilgrims. 2 <hi>Horeb,</hi> now <hi>Orel,</hi> where is a Mona<g ref="char:EOLhyphen"/>stry of Greek Monks. 3 <hi>Hor.</hi> where is 1 <hi>Petra</hi> now <hi>Crat,</hi> neer Mount <hi>Hor.</hi> the treasury of <hi>Aegypt,</hi> and the Key to <hi>Palestine.</hi> 2 <hi>Bosra,</hi> now <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ssereth</hi> of good esteem. 3 <hi>Elama,</hi> on a Bay of the <hi>Red-sea,</hi> called <hi>Sinus Elanicus.</hi> 4 <hi>Berenice,</hi> or <hi>Ezion-Geber,</hi> the harbour for the ships go<g ref="char:EOLhyphen"/>ing to <hi>Ophir.</hi> 5 <hi>Sur</hi> and <hi>Havilah</hi> on the Gulfs of <hi>Persia</hi> and <hi>Arabia, &amp;c.</hi>
+               </p>
+               <p n="3">3. In that portion of it called <hi>Arabia</hi> the <hi>happy,</hi> now <hi>Ailman, E.</hi> of <hi>Persia, W. Arabian</hi> Gulf, <hi>S.</hi> Ocean<g ref="char:EOLhyphen"/>abounding with Myrrh, Balsom, Frankincense, Gold and Precious Stones, with Corn, Cattels, Wines, quiet Roads and Harbours, besides medicinal waters, eminent for the Phaenix, and the Ostrich that digesteth Iron, are now upon the ruines of the old places men<g ref="char:EOLhyphen"/>tioned by <hi>Ptolomy.</hi>
+               </p>
+               <p n="1">1. <hi>Egra</hi> neer <hi>Sinus Elaniticus</hi> on the Red Sea, or <hi>Al<g ref="char:EOLhyphen"/>giar</hi> port-town to <hi>Medina,</hi> three dayes Journey from it. 2
+<note n="*" place="margin">Where <hi>Ma<g ref="char:EOLhyphen"/>homet</hi> was born.</note>
+                  <hi>Jatrib</hi> being between. 3 <hi>Medina Talnabi,</hi> ill and poorly seated, but rich by the confluence of Pilgrims that flock thither to <hi>Mahomets</hi> Tomb (and Temple where burn 3000 Lamps continually) inclosed in an Iron Grate, and covered with Velvet, sent thither year<g ref="char:EOLhyphen"/>ly by the Grand Seignior, the old Pall being cut into Relicks. 4 <hi>Cufa,</hi> the Counsel-place. 5 <hi>Mecca</hi> neer <hi>Medina</hi> the great Mart of the Commodities of <hi>Arabia, Persia</hi> and <hi>India,</hi> carried thence into all parts of the Turkish Empire, no Christian being permitted to come within five miles of it, it being unwalled, no water but rain: 6000 Families yearly visited with three Car<g ref="char:EOLhyphen"/>vans of Pilgrims from <hi>India, Damascus,</hi> and <hi>Grand-Cair.</hi> 6 <hi>Zeden</hi> haven town to <hi>Mecca</hi> forty miles off, well built, and of great resort, but weak in a sand on the Red Sea.
+<pb n="16" facs="tcp:207122:14"/>7 <hi>Zebel,</hi> the Metropolis of the Country, neer the Red Sea, well-traded for Sugars, Spice and Fruits. 8 <hi>Eltor,</hi> the onely port Christians may Inhabit. 9 The well<g ref="char:EOLhyphen"/>traded, well fortified, and capacious haven of <hi>Aden</hi> on the entrance of the Red Sea, neer the Streights, called <hi>Babel-Mandel.</hi> 10 <hi>Oran,</hi> the Key of the Southern Ocean. 11 <hi>Zean,</hi> fifteen miles square. 12 <hi>Hor,</hi> a Garrison. 13 <hi>Muskahal</hi> on the <hi>Persian</hi> Gulf neer <hi>Cape Rezel</hi> Gate, opposite to <hi>Surat</hi> in the East <hi>Indies,</hi> well fortified by the <hi>Portugeez.</hi>
+               </p>
+               <p n="4">4. In the Islands, 1 of the
+<note n="*" place="margin">Not be<g ref="char:EOLhyphen"/>cause of the red sand or water.</note> Red Sea, or the Sea of <hi>Edom,</hi> which are twelve not worth naming, they are so small and desolate, except <hi>Dolaqua,</hi> one hundred and twenty miles long, and twelve broad, with a City of the name, where they gather Pearls. 2 Hot <hi>Camaran.</hi> 3 Red <hi>Xomou.</hi> 2 Of the Southern Ocean from the East of <hi>Aethiopia</hi> to the <hi>Indies.</hi> 1 <hi>Tylus</hi> with Vines, Olives, and good materials for Shipping. 2 <hi>Bairen</hi> and <hi>Gonfiar,</hi> where we have the best Pearles in the World in beds of Oysters.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII. <hi>Chaldea,</hi>
+               </head>
+               <p>
+                  <hi> E. Persia, W. Arabia</hi> the desert, <hi>N. Mesopotamia,</hi> the Seat (its thought) of Paradise, so fruitfull, that it yieldeth three hundred fold increase; three harvests: the first place of Astronomy, Astro<g ref="char:EOLhyphen"/>logy, Divination and Idolatry, had first <hi>Babel</hi> that was confounded: Secondly <hi>Babylor,</hi> formerly one of the worlds wonder, as many furlongs round, as there are dayes in the year, <hi>(viz.)</hi> 365, 50 Cubits high, and so broad, that Carts might meet upon them; finished in one year by an 100000 workmen on both sides <hi>Eu<g ref="char:EOLhyphen"/>phrates,</hi> famous for pensile Gardens; and for that the Enemy had entred one end of it, three dayes before the other heard of them; in whose stead now stands
+<note n="*" place="margin">Called so, because of its Gardens.</note>
+                  <hi>Bagdad,</hi> a place of great wealth and traffick, about se<g ref="char:EOLhyphen"/>ven miles round, maintained now by the trade of <hi>Aleppo</hi> by Water, and by Land, in Carvans by Camels, for whose passages publick spirited men have built houses of Receits on the Roads, called Caravane
+<pb n="17" facs="tcp:207122:14"/>Rowes, or Canes; here they correspond by Pigeons, which they teach by carrying them with them in a Cage to coast any Country. 2 <hi>Ctesephon.</hi> 3 <hi>Sipparum,</hi> and its great Trench. 4 <hi>Apamia.</hi> 5 <hi>Balsora,</hi> the port to <hi>Babylon</hi> at the fall of <hi>Euphrates</hi> to <hi>Sinus Persicus,</hi> where the riches of <hi>Arabia, Persia,</hi> and some parts of <hi>India,</hi> are landed and carried to <hi>Babylon,</hi> and so by water to <hi>Aleppo.</hi>
+               </p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII. <hi>Assyria,</hi>
+               </head>
+               <p>
+                  <hi> E. Media, W. Mesopotamia. N. Tur<g ref="char:EOLhyphen"/>comania,</hi> where Christianity was planted by St. <hi>Jude,</hi> and corrupted by the <hi>Nestorians;</hi> hath 1 <hi>Calach.</hi> 2 The fruitful, well-seated, and well-shaded Sittace. 3 <hi>Ar<g ref="char:EOLhyphen"/>bela,</hi> neer which they say <hi>Noah</hi> built the Ark. 4 <hi>Apol<g ref="char:EOLhyphen"/>lonia.</hi> 5 <hi>Geguamela.</hi> 6 <hi>Rhezen,</hi> which was once delivered up, because the Inhabitants were frighted with an Ec<g ref="char:EOLhyphen"/>clips of the Son. 7 <hi>Mosul,</hi> the chief City of <hi>Assyria,</hi> raysed upon the Ruines of <hi>Nineveh,</hi> whereof there are hardly any foot-steps, and the seat of the Patriarch of the <hi>Nestorians,</hi> who call the Pope, the <hi>Reprobate Bishop.</hi> 8 Strong <hi>Arzeri</hi> and <hi>Scheheruzal.</hi>
+               </p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.
+<note n="*" place="margin">
+                     <hi>In Scripture,</hi> called <hi>Padan-Aram, Syria Culta.</hi>
+                  </note>
+                  <hi>Mesopotamia,</hi>
+               </head>
+               <p>
+                  <hi> E. Tygris, W. Euphrates, N. Taurus, S. Chaldea,</hi> now <hi>Dearbech,</hi> where Christi<g ref="char:EOLhyphen"/>anity was preached by St. <hi>Thaddeus</hi> hath these remar<g ref="char:EOLhyphen"/>kable places: 1 Strong <hi>Cologenbar.</hi> 2 Fair <hi>Edessa</hi> on the River <hi>Scyrtas</hi> neer <hi>Euphrates.</hi> 3 <hi>Nisibis.</hi> 4 <hi>Ʋr.</hi> 5 <hi>Ha<g ref="char:EOLhyphen"/>ran.</hi> 6 <hi>Amida,</hi> (a strong frontier town against the <hi>Per<g ref="char:EOLhyphen"/>sians</hi>) now <hi>Caramit,</hi> or <hi>Kara Amida, i. e.</hi> black <hi>Amida.</hi> 7 <hi>Phalga</hi> and <hi>Seruts</hi> at the meeting of <hi>Caphoras</hi> with <hi>Eu<g ref="char:EOLhyphen"/>phrates.</hi> 8 <hi>Singara,</hi> on a River of the name well forti<g ref="char:EOLhyphen"/>fied. 9 <hi>Bezabde</hi> on the banks of <hi>Tygris; Virta</hi> and <hi>Mer<g ref="char:EOLhyphen"/>dix</hi> impregnable.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV. Between <hi>Mesopotamia</hi> and <hi>Turcomania</hi> on Mount <hi>Taurus;</hi>
+               </head>
+               <p> is, 1 <hi>Moras,</hi> with its hot baths, and abundance of sulphur. 2 <hi>Larus Joon,</hi> between <hi>Omoal</hi> the last town of <hi>Hircania</hi> and <hi>Damoan,</hi> the first of <hi>Me<g ref="char:EOLhyphen"/>dia</hi>
+               </p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI. <hi>Turcomania,</hi>
+               </head>
+               <p>
+                  <hi> N. Tartary, S. Mesopotamia</hi> and <hi>Assyria, W. Euxine</hi> Sea <hi>Cappadocia,</hi> and <hi>Armenia mi<g ref="char:EOLhyphen"/>nor,
+<pb n="18" facs="tcp:207122:15"/>E. Media</hi> and <hi>Caspean</hi> Sea hath</p>
+               <p n="1">1 In that Part called
+<note n="*" place="margin">Where the people are commonly strong and industrious.</note>
+                  <hi>Armenia major,</hi> equally com<g ref="char:EOLhyphen"/>posed of hills and dales, rich in Cattle and Fruits; fa<g ref="char:EOLhyphen"/>mous for rich Tapestries, Grograines and watered Chamlets, which by a priviledge under <hi>Mahomets</hi> own hand above other Christians, they sell all over <hi>Turky,</hi> using the <hi>Armenian</hi> tongue, Christened by St. <hi>Bar<g ref="char:EOLhyphen"/>tholomew,</hi> are, first the Rivers, 1 <hi>Aruxes,</hi> w<seg rend="sup">ch</seg> runs from <hi>Armenia</hi> to the <hi>Caspian</hi> Sea; and 2 <hi>Cyrus.</hi> 3 <hi>Cambyses.</hi> 4 <hi>Euphrates,</hi> now <hi>Frat,</hi>
+                  <note n="*" place="margin">Insomuch, that they who go by water from <hi>Byrrah</hi> in <hi>Me<g ref="char:EOLhyphen"/>sopotamia</hi> to <hi>Bagdat,</hi> come back by land, selling their Boats, bought at 50, for 8 Growns at <hi>A<g ref="char:EOLhyphen"/>pamia</hi> in <hi>Chal<g ref="char:EOLhyphen"/>daea.</hi>
+                  </note> a violent stream cut into Channels, least it should drown the Country. 5 A swift River, affording an easie passage in a few rafts, born up with Goat-skins, blown up with wind to <hi>Bagdat,</hi> run<g ref="char:EOLhyphen"/>ning long under ground, in whose and <hi>Euphrates</hi> cir<g ref="char:EOLhyphen"/>clings lay <hi>Eden.</hi>
+               </p>
+               <p n="2">2. The Mountains <hi>Abos.</hi> 2 <hi>Periardes.</hi> 3 <hi>Ʋdalespes.</hi> 4 <hi>Antitaurus.</hi> 5 <hi>Montes Moschici.</hi> 6 <hi>Niphates.</hi> 7 The <hi>Gordian</hi> Mountains, or <hi>Ararat.</hi>
+               </p>
+               <p n="3">3. The Towns; 1 <hi>Artareta</hi> now <hi>Corin</hi> where the Battle was fought, 1514. which the Turks call the day of Doom; the place called the <hi>Calderan</hi> fields. 2 <hi>Se<g ref="char:EOLhyphen"/>bastia</hi> now <hi>Suassia,</hi> seated on <hi>Euphrates.</hi> 3 <hi>Tigrane certa</hi> on the River <hi>Nicesorius.</hi> 4 <hi>Arcamasola.</hi> 5 <hi>Cholna.</hi> 6 <hi>Ba<g ref="char:EOLhyphen"/>raza.</hi> 7 <hi>Arsarata.</hi> 8 <hi>Theodosiopolis.</hi> 9 <hi>Colonia.</hi> 10 Strong <hi>Clamassum</hi> on the <hi>Euphrates.</hi> 10 <hi>Charz</hi> made impreg<g ref="char:EOLhyphen"/>nable in three weeks, 1579. 11 Well garrisoned and Ammunition'd <hi>Vau,</hi> a Frontier against the <hi>Persians.</hi> 12 Well fortified <hi>Arminig</hi> held by the <hi>Persians.</hi>
+               </p>
+               <p n="2">2. In <hi>Colchis</hi> famous for Vines and Gold (<hi>E. Iberia, W. Euxine</hi> Sea, <hi>N. Tartary, S. Armenia</hi> the greater) formerly, now the
+<note n="*" place="margin">That sell their children for meat, and invite their neighbours to enjoy their wives.</note> rude people Barter one Commo<g ref="char:EOLhyphen"/>dity for another, with a language of their own; be<g ref="char:EOLhyphen"/>sides the River <hi>Phasis</hi> navigable eighteen miles into the Country, whence came our Pheasants; was 1 the fa<g ref="char:EOLhyphen"/>mous Mart <hi>Dioscurias,</hi> where the <hi>Romans</hi> kept 130 In<g ref="char:EOLhyphen"/>terpreters to correspond with people of 300 Languages that traded there. 2 <hi>Phasis,</hi> on the same River, now <hi>Phassum,</hi> the residence of the Turkish <hi>Beglebergh.</hi> 3 <hi>Ne<g ref="char:EOLhyphen"/>apolis</hi> and <hi>Alvati.</hi>
+               </p>
+               <pb n="19" facs="tcp:207122:15"/>
+               <p n="3">3. In <hi>Iberia, E. Albania, W. Colchis, N.</hi> Mountains <hi>Caucasus,</hi> called so from the River <hi>Iberus</hi> running through it, now <hi>Georgia,</hi> woody and fruitful; the peo<g ref="char:EOLhyphen"/>ple war-like, christened by <hi>Constantine</hi> the Great, and now divided between Mahumetanism and Jesuitisme, since 1614. is 1 <hi>Cremen.</hi> 2 <hi>Cachete.</hi> 3 <hi>Trtala.</hi> 4 <hi>Altun<g ref="char:EOLhyphen"/>cala,</hi> or the strong Golden Castle. And the impreg<g ref="char:EOLhyphen"/>nable <hi>Archichelech.</hi> 6 The large and well fortified
+<note n="*" place="margin">The Key of <hi>Media</hi> and <hi>Sirvan.</hi>
+                  </note>
+                  <hi>Te<g ref="char:EOLhyphen"/>stis Lori,</hi> and <hi>Tomanis</hi> (rich in Corn, Cattle, and Fruits, with Forts commanding all passages.) 7 <hi>Glisca</hi> and <hi>Bis<g ref="char:EOLhyphen"/>capar.</hi>
+               </p>
+               <p n="4">4. In <hi>Albania, W. Iberia, E. Caspian</hi> Sea, naturally fruitfull, affording three reapings for once sowing, where people formerly could not tell an hundred, and understood not weights and measures, or money, re<g ref="char:EOLhyphen"/>verencing old age, but not speaking of the dead: Gray from their Child-hood, and seeing as well by night as by day, is nothing remarkable; but the Rivers <hi>Alba<g ref="char:EOLhyphen"/>nus</hi> and <hi>Cyrus,</hi> and the City <hi>Derbent</hi> neer the <hi>Caspian</hi> Sea, now <hi>Demircan</hi> or
+<note n="*" place="margin">It is called by <hi>Egesippus Porta Ferrea.</hi>
+                  </note> Iron Gate with <hi>Sabran,</hi> and <hi>Sancta Maria,</hi> all, or most of these places under the <hi>Turks.</hi>
+               </p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII. <hi>Media,</hi>
+               </head>
+               <p>
+                  <hi> (E. Parthia</hi> and <hi>Hircania, W. Arm. major,</hi> and <hi>Assyria. N. Caspian</hi> Sea, <hi>Georgia. S. Persia.</hi> now <hi>Skeir-vun,</hi> i. e. <hi>Milky-plain,</hi> where it was a punishment for the <hi>Vulgar</hi> men to have less then se<g ref="char:EOLhyphen"/>ven Wives, and <hi>Women</hi> less then five Husbands; their bread of dryed Almonds, their meat wild flesh; on the North side plenty of Wines, Fruits, Cattle, especially horses on the South side; they poyson their Arrows with <hi>Oleum Mediacum,</hi> so that nothing can allay the heat of the wound but a little dust, converted by St. <hi>Thomas.</hi>) hath in it besides the River <hi>Canac,</hi> between it and <hi>Armenia major,</hi> and the Lake <hi>Argis,</hi> whose fish dryed by the wind and sun raise these People a great advantage.</p>
+               <p n="1">1. In the inhospitable <hi>Atropatria</hi> between <hi>Taurus</hi> and the <hi>Caspian</hi> Sea, whither its thought the Jews Cap<g ref="char:EOLhyphen"/>tived
+<pb n="20" facs="tcp:207122:16"/>by <hi>Salmanasser,</hi> are placed 1 <hi>Bochu</hi> by the
+<note n="*" place="margin">Hence cal<g ref="char:EOLhyphen"/>led <hi>Mare de Bochu.</hi>
+                  </note>
+                  <hi>Caspian</hi> Sea. 2 Strong <hi>Lres</hi> poss<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssed by the Turks, as an in-let to this Country. 2
+<note n="*" place="margin">By the <hi>Per<g ref="char:EOLhyphen"/>sians</hi> call'd <hi>Cy<g ref="char:EOLhyphen"/>rectzbata,</hi> it may be <hi>Cyro<g ref="char:EOLhyphen"/>polis.</hi>
+                  </note>
+                  <hi>Shamaki</hi> between <hi>Lres</hi> and <hi>Der<g ref="char:EOLhyphen"/>bent,</hi> notorious for a Pillar of Flint-stones, interwoven with the heads of <hi>Persian</hi> Noblemen set there barba<g ref="char:EOLhyphen"/>rously <hi>in terrorem.</hi>
+               </p>
+               <p n="2">2. In <hi>Media,</hi> especially so called, eminent for gene<g ref="char:EOLhyphen"/>rous
+<note n="*" place="margin">Call'd <hi>Nissei.</hi>
+                  </note> horses, fat Cattle, good Corn and Wine, and and excellent Water; was 1 Ruined <hi>Eobatana</hi> as state<g ref="char:EOLhyphen"/>ly as <hi>Babylon,</hi> formerly out of whose rubbish, 2 <hi>Tauris</hi> was built now <hi>Baronta</hi> under the shadow of Mount <hi>Orontes,</hi> a hundred and fifty miles from the <hi>Caspian</hi> Sea, opening <hi>S.</hi> towards a large and spacious Campagne, six miles round built of brick with flat Roofs and Bat<g ref="char:EOLhyphen"/>tlements, as in all the East; well traded, and inhabi<g ref="char:EOLhyphen"/>ted at least by 200000 persons, with a strong Citadel. 3 <hi>Caspin</hi> on the Ruines of <hi>Arsacia,</hi> very conveniently and pleasantly Scituated on a Riveret that serves for necessity and pleasure, but not for trade. 4 <hi>Rages.</hi> 5 <hi>Nasuana.</hi> 6 <hi>Ardoville.</hi> 7 <hi>Sultanives ruines</hi> and <hi>Mosches,</hi> environed alwayes with snowy Mountains. 8 The fair Market <hi>Tywan.</hi> 9 <hi>Turcoman.</hi> 10 <hi>Daman, i. e.</hi> a second Plantation at the foot of <hi>Taurus,</hi> where the Inhabitants think <hi>Noahs</hi> Ark rested.</p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII. <hi>Persia,</hi>
+               </head>
+               <p>
+                  <hi> E. India, N. Tartary, S.</hi> Sea, <hi>W. Media,</hi> under the 3<seg rend="sup">d</seg>, 4<seg rend="sup">th</seg>, 5<seg rend="sup">th</seg>, and 6<seg rend="sup">th</seg> Clime <hi>S.</hi> days thirteen hours. <hi>N.</hi> fifteen hours, healthful and shady; the people half skilfull in Physick, Poems, Astronomy,
+<note n="*" place="margin">There was an edict of <hi>Cyrus,</hi> that they should not go on foot.</note> Horseman-ship, Archery,
+<note n="†" place="margin">Whence the <hi>Magi</hi> that came to our Saviour are thought <hi>Per<g ref="char:EOLhyphen"/>sians.</hi>
+                  </note> Magick, and among o<g ref="char:EOLhyphen"/>ther manufactures in making Silks, and Cloath of Gold; all the Christianity there was planted by St. <hi>Thomas.</hi> Hath</p>
+               <p n="1">1. In <hi>Susiana, W. Babylonia, N. Assyria, S. Tygris,</hi> cal<g ref="char:EOLhyphen"/>led <hi>Havilah,</hi> famous for Gold
+<note n="*" place="margin">
+                     <hi>A</hi> tree whose gum<g ref="char:EOLhyphen"/>turns pearl.</note>
+                  <hi>Bdellium</hi> and <hi>Onyx</hi> stone, 1 <hi>Aracca</hi> and its bituminous water easily fired, and not easily quenched. 2 The Ruines of <hi>Susa.</hi> 3 <hi>Elimais</hi> rich by Pilgrimages with <hi>Sela</hi> on the Bank of <hi>Eulaeus,</hi> that emptieth its self into <hi>Sinus Persicus,</hi> of so pure a
+<pb n="21" facs="tcp:207122:16"/>stream, that the great <hi>Persian</hi> Kings would drink of no other water. 4 <hi>Jaaroone</hi> inhabited by Jewes <hi>Suum</hi> and <hi>Casa.</hi>
+               </p>
+               <p n="2">2. In <hi>Persis, W. Susiana, N. Media, E. Carmania,</hi> now <hi>Fars,</hi> where some Dates, Palmes and Emeraulds are found; and in one part of it abundance of Roses, Rose<g ref="char:EOLhyphen"/>water, Cordovans, Corn, Fruit and Cattle; are 1 <hi>Au<g ref="char:EOLhyphen"/>sinza</hi> on the Bay, between the mouths of the Rivers <hi>Bagradas,</hi> and <hi>Brisoana,</hi> as 2 is <hi>Jona Capolis.</hi> 3 <hi>Axenia</hi> now <hi>Lansilla.</hi> 4 <hi>Shyras</hi> raised on the ample ruines of <hi>Persepolis</hi> (burnt by <hi>Alexander</hi> in a drunken fit, at the instigation of <hi>Lais</hi>) neer the banks of <hi>Araxes,</hi> now <hi>Bindimir</hi> the Metropolis, nine miles round in a plain, hemmed with Mountains, famous for Gardens, and Mosches with their golden lights, and a thousand Lamps; affording <hi>Good Wine, pretty Women,</hi> pleasant fruits, and a gallant people. 5 Well-wooded and wa<g ref="char:EOLhyphen"/>tered <hi>Moyown, N. E. Shyras.</hi> 6 The high Mountain and Castle of <hi>Banneraw.</hi> 7 <hi>Berry,</hi> a School for the <hi>Ara<g ref="char:EOLhyphen"/>bick</hi> tongue, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. In
+<note n="*" place="margin">Now <hi>Chyr<g ref="char:EOLhyphen"/>man.</hi>
+                  </note>
+                  <hi>Carmania, W. Persis,</hi> and the <hi>Gulf of Persia, N. Parthia, S. Indian</hi> Sea, affording neither good Port, nor good coming to it all the two hundred leagues on the Sea coast, to carry off its poor Commodities, such as Dates, Myrrhe, Arsenie, Brass, Iron, Alabaster, Fish and little Silver; are 1 <hi>Cyrza</hi> and <hi>Gochorta,</hi> two Port Towns. 2 <hi>Alexandria.</hi> 3 <hi>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tespana.</hi> 4 <hi>Armuza,</hi> on the shore of the <hi>Persian</hi> Gulf. 5 Populous <hi>Gunbroone.</hi> 6 <hi>Jasques in Cape de Jasques.</hi> 7 <hi>Charmania (Chyrman)</hi> notable for cloath of Gold, and Scymitars. 3 <hi>In-land Lar,</hi> and its goodly Market place <hi>Mosch,</hi> and Cittadel of <hi>Mosai{que}</hi> work; through this Country <hi>Alexander</hi> marched af<g ref="char:EOLhyphen"/>ter the Conquest of <hi>India</hi> in a fortnights continued fit of drinking and revelling.</p>
+               <p n="4">4 In <hi>Ormus,</hi> an Isle in the entrance of the <hi>Persian</hi>
+                  <note n="*" place="margin">Now called <hi>More Elheriffe</hi> and the Streights, leading to it the Streights: of <hi>Balfora.</hi>
+                  </note> Gulf (which after a narrow streight openeth to the City <hi>Balfora,</hi> and is two thousand five hundred Italian miles compass) twenty miles round, affording only
+<pb n="22" facs="tcp:207122:17"/>
+                  <hi>Salt,</hi> and notwithstanding its so hot, that the people are forced to live in Caves; and so unhappy that they send to other Countries for water; is so well Scitua<g ref="char:EOLhyphen"/>ted, that the Wealth of <hi>Persia</hi> and <hi>East India</hi> is brought to its great Mart <hi>Armuzium</hi> (two miles round) in the end of the Isle, and thence conveyed by water to <hi>Eu<g ref="char:EOLhyphen"/>phrates,</hi> and thence by Boats, or Camels to <hi>Aleppo, A<g ref="char:EOLhyphen"/>lexandretta</hi> and <hi>Tripolis,</hi> till it was destroyed by the help of the English, 1622. who have therefore customes of all strangers that traffick at <hi>Gambroon,</hi> whither the trade of this place was removed.</p>
+               <p n="5">5. In
+<note n="*" place="margin">Called <hi>Gest</hi> and <hi>Circan.</hi>
+                  </note>
+                  <hi>Gedrosia, W. Carmania, S. Indian</hi> Sea, <hi>E. Gambaia</hi> or <hi>Guzurat</hi> in <hi>India,</hi> a barren place, affording onely Nard, and Myrrhe, but a poor Village is the chief City.</p>
+               <p n="6">6. In poor <hi>Drungiana, S. Gedrosia;</hi> is 1 <hi>Prophthasia</hi> now <hi>Sistan.</hi> 2 <hi>Sige</hi> or <hi>Sigestan,</hi> 3 <hi>Mulebet,</hi> 4 <hi>Pharazada.</hi> 5 <hi>Arvada.</hi>
+               </p>
+               <p n="7">7. In <hi>Despicable</hi>
+                  <note n="*" place="margin">Cabal.</note>
+                  <hi>Arachosia</hi> is no place memorable; but 1 <hi>Alexandria</hi> now <hi>Cabal</hi> at the foot of <hi>Taurus.</hi> 2 <hi>Sin.</hi>
+               </p>
+               <p n="8">8.
+<note n="*" place="margin">Candabor.</note> In <hi>Para Pomismus, N. Bactria, E. India, W. Ana,</hi> dark with hills; is 1 <hi>Candabor,</hi> the Metropolis of great trade, by reason of the Scituation of it on the borders of <hi>India.</hi>
+               </p>
+               <p n="9">9. In <hi>Aria, W. Parthia, E. Para pomismus,</hi> where is in some places a strong wine that will keep colour, and tast eighty years, something like Myrrhe and Saphyr: there are now only, 1 <hi>Heri</hi> or <hi>Eri</hi> on the banks of <hi>A<g ref="char:EOLhyphen"/>rias,</hi> called the <hi>City of Roses,</hi> very strong. 2 <hi>Sasuar.</hi>
+               </p>
+               <p n="10">10, In <hi>Parthia, E. Aria, W. Media, N. Hyrcania, S. Carmania,</hi> now <hi>Arach,</hi> nothing but sand, unless it be under the woods, where are things for necessity, none for riot; the people slavish, nimble horse men, and Archers: the Country not passable for the Sands, were it not for Caus-wayes and Castles at each three miles end; are 1 <hi>Hispan</hi>
+                  <note n="*" place="margin">Spanhawn.</note> raysed out of the ruines of <hi>Heca<g ref="char:EOLhyphen"/>tompyle,</hi> called by the Inhabitants, <hi>Half the World;</hi> nine miles round in a plain with Gardens, Baths, and Mos<g ref="char:EOLhyphen"/>ches,
+<pb n="23" facs="tcp:207122:17"/>and a cloystered quadrangular market place, well stored with Merchandises, and Drugs; in the qua<g ref="char:EOLhyphen"/>drangle whereof they use horse races, and other war<g ref="char:EOLhyphen"/>like exercises. <hi>Jelphea</hi> on the other side the River, in<g ref="char:EOLhyphen"/>habited by <hi>Armenian</hi> Christians for a great Poll. 3 <hi>Croom,</hi> a large, pleasant, and healthy place on a Ri<g ref="char:EOLhyphen"/>veret. 4 <hi>Casham,</hi> rich and well built, and filled with Artizans in Silks, Sattins, Cloth of Gold, and Car<g ref="char:EOLhyphen"/>pets; adorned with a beautifull Caravans Raw to en<g ref="char:EOLhyphen"/>tertain strangers. 4 <hi>Tangaunt</hi> where the King of <hi>Persia</hi> hath an incomparable House, for Gardens, Groves, Ecchoes, and Labyrinths, <hi>&amp;c.</hi>
+               </p>
+               <p n="11">11. In <hi>Hircania, S.</hi>
+                  <note n="*" place="margin">Divided from <hi>Parthia</hi> by <hi>Coronus,</hi> the way through which the <hi>Persians</hi> say <hi>Mortis Haly,</hi> the second <hi>Mahomet,</hi> cut out at one blow with a Cymitar.</note>
+                  <hi>Parthia. N. Caspian</hi> Sea, <hi>E. Mergeana;</hi> the people of which place starve their Pa<g ref="char:EOLhyphen"/>rents at seventy years of age; fruitful in pasture, wheat, wines, figs and other fruits; full of Forrests, and those Forrests full of <hi>Panthers, Leopards, Lyons, Tygers,</hi> &amp;c. Is 1 <hi>Hyrcania Hyrcan.</hi> 2 <hi>Ashoraffe</hi> two miles from the Sea in a spacious plain, containing two thousand houses, adorned with two great Pallaces, the Furniture of one of which was valued by a Merchant at twenty millions. <hi>Farabont,</hi> on a navigable branch of the <hi>Cas<g ref="char:EOLhyphen"/>pian</hi> Sea, well traded, especially by <hi>Muscovy</hi> Mer<g ref="char:EOLhyphen"/>chants, for Silks, whose ships come from the <hi>Volge,</hi> which dischargeth it self into the <hi>Caspian</hi> Sea by seventy mouths in <hi>March,</hi> and return in <hi>July;</hi> it being from thence to <hi>Astracan</hi> but ten dayes sail; famous for its Gardens, a Pallace, and a Market-place. 4 <hi>Chiachoporo</hi> on a River, the water whereof is for eleven months sweet, and for the twelfth salt. 5 The well-watered and wooded <hi>Barfrushder</hi> and <hi>Omoal</hi> resorted to by Peo<g ref="char:EOLhyphen"/>ple of seven Tongues. 6 <hi>Stava,</hi> a Town of great Traf<g ref="char:EOLhyphen"/>fique for raw silk. 7 <hi>Mesander,</hi> whence the Province <hi>Mesandrum.</hi>
+               </p>
+               <p n="12">12. In <hi>Sandy Morgiana, W. Hyrcania, E. Bactria, N. Tartary;</hi> besides huge Vines as big as a mans middle, with clusters of Grapes two cubits long, of <hi>Noahs</hi> plant<g ref="char:EOLhyphen"/>ing, as it is thought here; and the City <hi>Alexandria,</hi>
+                  <pb n="24" facs="tcp:207122:18"/>now called <hi>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dian;</hi> the chief place in the Country neer which is <hi>Jas<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nium</hi> on the confluence of <hi>Margus.</hi>
+               </p>
+               <p n="13">13. In <hi>Bactr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> the greatest part whereof <hi>S.</hi> and <hi>W.</hi> is nothing but sand, which is travelled only in the night but towards the River <hi>Oxus,</hi> plentiful in wheat, and all g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain except Oav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, rich Mettals, and some Precious Stones, as Em<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ralds, Chrysolites and Ja<g ref="char:EOLhyphen"/>cinthes: is 1 <hi>Bactria</hi> at the foot of the hill <hi>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gdii</hi> now <hi>Bo<g ref="char:EOLhyphen"/>chor,</hi> the Metropolis well fortified and stored. 2 <hi>Isti<g ref="char:EOLhyphen"/>gias,</hi> the pleasantest City in the East. 3 <hi>Eucratidia, Alicodra, Charra Charia,</hi> all these under the <hi>Persian</hi> So<g ref="char:EOLhyphen"/>phi, except here and there some places taken by the Turks, and others under the <hi>Muscovite</hi> and <hi>Portugez;</hi> the first whereof manageth the Trade of the <hi>Caspian</hi> Sea and the latter, that of the Southern Ocean.</p>
+            </div>
+            <div n="29" type="part">
+               <head>XXIX. <hi>Tartary,</hi>
+               </head>
+               <p>
+                  <hi> E. China,</hi> and the Streights of <hi>A<g ref="char:EOLhyphen"/>nian, W. Russia</hi> and <hi>Podolia, N. Scithicke</hi> or Frozen Sea, <hi>S. China,</hi> and the great wall that parts them, contain<g ref="char:EOLhyphen"/>ing five thousand four hundred miles from <hi>E.</hi> to <hi>W.</hi> and three thousand six hundred from <hi>N.</hi> to <hi>S.</hi> from the sixth climate, till they cease measuring by climates; the dayes being in some places six months, and the nights as long, reaching from fifty degrees of Longi<g ref="char:EOLhyphen"/>tude, to one hundred ninety five, and from forty of Latitude to eighty, <hi>i. e.</hi> within ten degrees of the Pole it self: The people swarthy, squat, swift, vigilant, hardy, whining when they talk, and howling when they sing; men eaters, drinking Mares milk, riding Oxen. That Christianity that is there planted by St. <hi>Andrew,</hi> and St. <hi>Philip,</hi> and over-run with Nestoria<g ref="char:EOLhyphen"/>nism; thought by <hi>Genebrard</hi> to be the Off-spring of the ten Tribes: Hath,</p>
+               <p n="1">1. In <hi>Tartaria</hi>
+                  <note n="*" place="margin">
+                     <hi>Chersones</hi> joyned by an <hi>Istmus</hi> to the main land, which the <hi>Tartars</hi> went to dig through; whence <hi>Pre<g ref="char:EOLhyphen"/>copensis</hi> from <hi>Precaph,</hi> sig<g ref="char:EOLhyphen"/>nifying a trench.</note>
+                  <hi>Precopensis</hi> or <hi>minor,</hi> abounding in Camels, Horses, Oxen, Sheep and Goats Venison in in their Forrests, and Fish and Fowl in the Fens of <hi>Maeotis,</hi> with a temperate ayre, about ninety nine Ita<g ref="char:EOLhyphen"/>lian miles long, and sixty three broad: on the Rivers <hi>Boristenes</hi> and <hi>Tanais,</hi> arisng in <hi>Russia</hi> in <hi>Mosco,</hi> in the
+<pb n="25" facs="tcp:207122:18"/>chief City,
+<note n="*" place="margin">Now called <hi>mare delle Za<g ref="char:EOLhyphen"/>bab. Ital. Mar. della Tana</hi> and <hi>Mer Bienco.</hi>
+                  </note> of which there are 50000 <hi>Tartar</hi> horses sold yearly; besides that these people with roots, cheese and garlick, eat horses flesh, each <hi>Bowman</hi> carrying two horses with him to the wars, one for service, and the other for meat.) 1 <hi>Caffa</hi> neer the Streights <hi>[Sterto de Caffa]</hi> a flourishing Empory, with a capacious haven, commanding the trade of the <hi>Euxine.</hi> 2 <hi>Preceph.</hi> 3 Wel<g ref="char:EOLhyphen"/>traded and harboured <hi>Corsunum,</hi> now <hi>Sari Germanum,</hi> from the yellow earth thereabouts like <hi>Saffron.</hi> 4 Wel<g ref="char:EOLhyphen"/>fortified <hi>Crim</hi> (whence <hi>Crim Tartars</hi> commanding the <hi>Euxine,</hi> and <hi>Lake of Maeotis.</hi> 5 <hi>Panticapaeum,</hi> on the <hi>Vospero</hi> or <hi>Bosphorus.</hi> 6 <hi>Tanas</hi> on <hi>Tanais,</hi> frequented by the Merchants of all Nations on the <hi>Euxine</hi> under the <hi>Turks.</hi> 7 Ruinous, but high <hi>Ingirmenum.</hi> 8 <hi>Oizakow,</hi> the residence of the <hi>Cham,</hi> whose Court in Summer time makes a moveable City of Wheele-houses, called <hi>Agara,</hi> or the town of <hi>Carts</hi> neer <hi>Podolia</hi> in <hi>Poland,</hi> and part of <hi>Muscovy,</hi> under the protection of the Grand-Seignior, who recommanded one of the <hi>Chams</hi> to be King of <hi>Poland,</hi> in a letter to this effect, that their Pope should be his Pope, and their <hi>Luther</hi> his <hi>Luther,</hi> and that he would not put them to the charge of house<g ref="char:EOLhyphen"/>keeping, for he could eat horse-flesh.</p>
+               <p n="2">2. In <hi>Tartaria deserta, W. Precopensis</hi> and <hi>Russia,</hi>
+                  <note n="*" place="margin">From which divided by the River <hi>Spane,</hi> which falleth into <hi>Caspian</hi> Sea, a<g ref="char:EOLhyphen"/>bout the mid<g ref="char:EOLhyphen"/>dle of it.</note>
+                  <hi>E. Zagathai, N. Frozen</hi> Sea, <hi>S. Euxine,</hi> and <hi>Caspian;</hi> so fruitful, if the <hi>Tartars</hi> (that laugh at us for living on the top of reeds; so they call our bread) say true, that for once sowing <hi>Mill</hi> and <hi>Punicum</hi> they have without any tillage three Returns of both; <hi>Few Cities,</hi> (they roving with their herds, as the grass holds capable of Mer<g ref="char:EOLhyphen"/>chandise, having a fair sea coast, several Bays, Havens, and navigable Rivers, only Mountains, on the top of which the Sun shines when its night in the Valley) saving 1 <hi>Locoppa.</hi> 2 <hi>Conice, Phanogoria,</hi> St. <hi>Georges</hi> on the <hi>Bosphorus</hi> and <hi>Rha,</hi> neer which on both sides there is a medicinal root called <hi>Rha Pontiche,</hi> to distin<g ref="char:EOLhyphen"/>guish it from <hi>Rha-Barbarum</hi> or <hi>Rhubarb.</hi> This tract inaccessible. 3 <hi>Bolgar</hi> on the River <hi>Volga,</hi> neer which
+<pb n="26" facs="tcp:207122:19"/>is the greatest herd of <hi>Tartars,</hi> called <hi>Horda Magna.</hi> 4
+<note n="*" place="margin">These peo<g ref="char:EOLhyphen"/>ple are sancti<g ref="char:EOLhyphen"/>fied by their Priests by sprinkling them with Milk, Earth, and Cow<g ref="char:EOLhyphen"/>dung.</note>
+                  <hi>Scharaishe</hi> on the other side of the <hi>Volga,</hi> where is no money but brass, no corn but roots troublesome to <hi>Muscovy,</hi> who pacifieth them with presents, yet keep<g ref="char:EOLhyphen"/>ing continual Garrisons at <hi>Casan, Astrachan,</hi> and <hi>Wiatra,</hi> least they should disturb the <hi>Russia</hi> trade in the <hi>Caspian</hi> Down the <hi>Volga,</hi> as they go up and down in herds fol<g ref="char:EOLhyphen"/>lowing the <hi>Pole-star,</hi> but keeping close for fear of the <hi>Muscovite;</hi> much delighted in Negromancy and Con<g ref="char:EOLhyphen"/>jurations under the <hi>Cham</hi> of <hi>Chathai;</hi> their delicacies are mice, serpents, and other wormes, and their man<g ref="char:EOLhyphen"/>sions Caves.</p>
+               <p n="3">3. In <hi>Zagathai, E. Cathai</hi> on the other side of <hi>Imaus, N. Frozen</hi> Sea, <hi>S. Caspian</hi> and the River <hi>Oxus,</hi> between it and <hi>Persia;</hi> is 1 <hi>Drepsa</hi> on the <hi>Oxus:</hi> as is 2 <hi>Oxiana.</hi> 3 <hi>Maruca.</hi> 4 <hi>Alexandria.</hi> 5 <hi>Tribarra,</hi> not consider<g ref="char:EOLhyphen"/>able among such a
+<note n="*" place="margin">Whose lea<g ref="char:EOLhyphen"/>ders are their Priests, which they call <hi>Papa.</hi>
+                  </note> wandring people. 6 <hi>Zabaspia,</hi> an eminent town, by reason the Inhabitants thereabouts are civil and industrious, good mechanicks, well skil<g ref="char:EOLhyphen"/>led in manufactories, and very seldom without a great confluence of
+<note n="*" place="margin">From <hi>India</hi> and <hi>Cathai.</hi>
+                  </note> Merchants, trading on the River <hi>Daix,</hi> and the mouth of the <hi>Oxus.</hi> 7 The magnificent <hi>Mara-Canda.</hi> 8 Well-traded and populous <hi>Bichend;</hi> and 9 in the wild <hi>Turcestan Calba, Ocerra</hi> and <hi>Crustina</hi> on the Lake <hi>Kitay,</hi> much frequented by <hi>Russian</hi> and <hi>Tartarian</hi> Merchants sayling thither by the River <hi>Ob,</hi> for Be<g ref="char:EOLhyphen"/>vers, Sables, Seil-skins, <hi>&amp;c.</hi> and not far hence are the Savage <hi>Scythians.</hi>
+               </p>
+               <p n="4">4. In <hi>Cathay, W. Zagathi</hi> with <hi>Imaus,</hi> between <hi>E.</hi> Sea and <hi>China, S. India, N. Tartaria Antiqua,</hi> extending from the North <hi>Sythia extra Imaum</hi> to the South <hi>India Ex<g ref="char:EOLhyphen"/>tra Gangen</hi> nine hundred and sixty miles, and from <hi>E.</hi> to <hi>W.</hi> one thousand five hundred, abounding East<g ref="char:EOLhyphen"/>ward with Wheat, Rice, Wool, Hemp, Silk, Musk, and Rhubarb on the banks of <hi>Volga;</hi> besides Camels hair, Chamlets, and such a numberless number of horses, as that they sent eighty thousand at one time for a present to the King of <hi>China;</hi> and the great <hi>Cham</hi>
+                  <pb n="27" facs="tcp:207122:19"/>feedeth yearly ten thousand white Mares for their Milk; the Air very hot in summer, and very good in winter, subject to wonderful thundering, earth-quakes &amp; winds: their <hi>Cham</hi> not to be seen without purgations or washing; are 1 <hi>Cambala,</hi> or <hi>Cham's</hi> pleasant seat of free-stone in the heart of the <hi>Country</hi> on the River <hi>Paly<g ref="char:EOLhyphen"/>sanga,</hi> navigable from the Eastern Ocean thither, whi<g ref="char:EOLhyphen"/>ther it conveys a great store of Merchandises and Mer<g ref="char:EOLhyphen"/>chants, and among other Merchandises, ten thousand Cart-loads of Silk from <hi>China.</hi> Twenty eight miles round, containing among other Inhabitants, Fifty thousand Astrologers. 2 <hi>Xandu,</hi> the Emperours Pal<g ref="char:EOLhyphen"/>lace, containing eight quadrangles one within ano<g ref="char:EOLhyphen"/>ther, the least two miles in compass, between whose several walls are Walks, Gardens, Orchards, Fish<g ref="char:EOLhyphen"/>ponds, Parks, Forrests, Chases, <hi>&amp;c.</hi> 3 Fair <hi>Caraio</hi> and <hi>Gouza,</hi> where the women are said to guild their teeth. 4 <hi>Careanfean,</hi> where is the herb called <hi>Chiny-Cathaii,</hi> an ounce whereof being valued worth a sack of Rhubarb; not far from hence in <hi>Serica</hi> you may barter their Silks for trifles, for like <hi>Quakers</hi> they make but one word.</p>
+               <p>Especially, at 1 <hi>Sera.</hi> 2 <hi>Ottecora.</hi> 3 <hi>Issedon.</hi> 4 <hi>Oro<g ref="char:EOLhyphen"/>sana;</hi> and 5 <hi>Donata:</hi> Here and in <hi>Scythia extra Emaum,</hi> they made carousing cups of their Fathers skulls; where 1 <hi>Hiachan</hi> is a great Mart. 2 <hi>Cialis,</hi> a great Court. 3 <hi>Succuir,</hi> famous for Merchandise. 4 <hi>Campion,</hi> where if the woman offer her self to the Priest, he thinks it a sin to refuse lying with her, besides other barbarous, desolate, idolatrous, and inchanting pro<g ref="char:EOLhyphen"/>vinces and Cities, onely in East <hi>Tartary,</hi> there are Ca<g ref="char:EOLhyphen"/>stors, Martrois, and Zibellons, and other precious skins, besides Horse hair, and the root Ginsen, with which they traffick at <hi>Leatony,</hi> a Province <hi>N. E.</hi> of <hi>China:</hi> of <hi>Tartaria Antiqua,</hi> you may be sure nothing remarkable, since they are so barbarous, that they will marry no Virgins, but such as have been prostituted by their Mothers to the Merchant-strangers, who bestow on them Jewels, and she is the most acceptable to her
+<pb n="28" facs="tcp:207122:20"/>husband, who brings him the greatest reward of her shame.</p>
+            </div>
+            <div n="30" type="part">
+               <head>XXX. <hi>China,</hi>
+               </head>
+               <p>
+                  <hi> E. Oriental Ocean, W. India</hi> and <hi>Cathay, N. Altas,</hi>
+                  <note n="*" place="margin">Out of the profits where<g ref="char:EOLhyphen"/>of they are very charita<g ref="char:EOLhyphen"/>ble to their lame and maimed, reje<g ref="char:EOLhyphen"/>cting the blind, as able to work by grinding of Corn.</note> and <hi>East Tartary,</hi> from which divided by a chain of hills, and a great wall extended four hundred leagues in length. <hi>S. Cauchin-China,</hi> a Province of <hi>In<g ref="char:EOLhyphen"/>dia</hi> three thousand leagues about, one thousand eight hundred leagues long, reaching from 130<seg rend="sup">th</seg> to 160<seg rend="sup">th</seg> degree of Longitude, and from the Tropick of <hi>Cancer,</hi> to the 53<seg rend="sup">d</seg> degree of Latitude; lying under all the climes from the 3<seg rend="sup">d</seg> to the 9<seg rend="sup">th</seg>; hot, but healthful: so fruitfull, that it yieldeth three harvests a year, of Wheat, Barley, Rice, Wool, Cotton, Olives, Wines, Flax, Silk, besides their Pearls and Bezoar, all kind of Metall, Fruits, Cattle, Sugar, Honey, Rhubarb, Cam<g ref="char:EOLhyphen"/>phire, Ginger, and all kinds of Spices, medicinal wood, called <hi>China</hi> Wood, Muske, Salt, Poultrey, especially
+<note n="*" place="margin">And Hogs, whereof six thousand a day eaten in the same place</note> Ducks, whereof in one town, thirteen thousand eaten one day with another. The people well-set, middle<g ref="char:EOLhyphen"/>sized, gluttonous, but cleanly, not touching their meat with their hands, but eating with two Ebony sticks, whence silver Forks used first in <hi>Italy,</hi> and then in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Skilful in Manufactories, the Son being bound to follow his Fathers Trade, witness, PRINTING, and GUNNING, its thought first invented there. <hi>Porcellan</hi> dishes, curious carvings, and their fine paint<g ref="char:EOLhyphen"/>ed works in Tables, Leathers and Stuffs, whereof they are so proud, that they say they have two eyes, the <hi>Europeans</hi> one, and the rest of the world stark-blind: the Women very modest, reserved, and much watched by their Husbands, having invented them a pinching fa<g ref="char:EOLhyphen"/>shion of shooes, that they might have no delight to walk abroad. The Inhabitants reckoned one hundred and seventy million by Sea and Land; the Sea for three hundred leagues from <hi>Nanquin</hi> to <hi>Paquin,</hi> being but one street of Ships, wherein they buy, sell, are born, and dye. The People multiplying, because they make no War but Defensive, and are forbid to go out of their
+<pb n="29" facs="tcp:207122:20"/>Country. Their Religion Gentilisme, with some re<g ref="char:EOLhyphen"/>mainders of Christianity, planted there by St. <hi>Thomas.</hi> Here are five hundred ninety one Cities Uniform, most on one of their seven
+<note n="*" place="margin">On which are twelve thousand bridges, un<g ref="char:EOLhyphen"/>der which ships sail.</note> Navigable Rivers, where<g ref="char:EOLhyphen"/>of the most Eminent are;</p>
+               <p n="1">1 <hi>Quinsoy</hi> or <hi>Suntren,</hi> on the West of <hi>China</hi> neer <hi>Ca<g ref="char:EOLhyphen"/>thai,</hi> formerly an hundred miles round, with a Lake in it thirty miles about, containing six hundred thousand Families of Artificers. 2 <hi>Ʋnguen</hi> and its Sugars. 3 <hi>Nan<g ref="char:EOLhyphen"/>quin</hi> on the great River <hi>Kuni,</hi> thirty miles round, with twelve thousand Ships before it, nine leagues from the Sea; two hundred thousand houses. 4 The Royal City <hi>Paquin,</hi> walled so thick with brick, that twelve horse-men may go abreast upon the wall of it. 5 <hi>Can<g ref="char:EOLhyphen"/>ton</hi> or <hi>Quamchen,</hi> (where is one Herb that is all the Phy<g ref="char:EOLhyphen"/>sick of <hi>China.</hi>) On a Navigable River where the <hi>Por<g ref="char:EOLhyphen"/>tugez</hi> drive a wealthy trade in the day time, being shut out at night; whereupon they have setled their Mart at <hi>Macao,</hi> the Port-town to this. 6 <hi>Xaokin</hi> on the like River. 7 <hi>Zuchean,</hi> the centre of Merchandise. 8 <hi>Ham<g ref="char:EOLhyphen"/>seau</hi> or <hi>Hanychen</hi> on the Northside of the River <hi>Cinitha<g ref="char:EOLhyphen"/>ny,</hi> within two days Journey of the Sea, affording trade to all the Northern parts of <hi>China.</hi> 9 Stately <hi>Fochea.</hi> 10 <hi>Coluns,</hi> and its best <hi>Procellane.</hi> 11
+<note n="*" place="margin">Or <hi>Thiencin.</hi>
+                  </note>
+                  <hi>Scianchai</hi> seated in a Country that looks like one Orchard within twenty four hours sail of <hi>Japan,</hi> a great Mart and Har<g ref="char:EOLhyphen"/>bour, where two hundred thousand persons work in Cotton. 12 <hi>Chinchiamsu,</hi> on a River that never free<g ref="char:EOLhyphen"/>zeth. 13 <hi>Suanchea,</hi> the onely Southern Port of <hi>China.</hi> 14 <hi>Caiton</hi> or <hi>Caisuuy</hi> on the River <hi>Kiamy</hi> a good har<g ref="char:EOLhyphen"/>bour destroyed 1642. 15 The convenient Haven <hi>Kai<g ref="char:EOLhyphen"/>anchen</hi> on the Southside of the River <hi>Croc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us.</hi> 16 <hi>Chat<g ref="char:EOLhyphen"/>king.</hi> 17 <hi>Taitung.</hi> 18 <hi>Nancheny,</hi> besides the two Isles <hi>Corea,</hi> and <hi>Cheunan.</hi>
+               </p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI. <hi>India,</hi>
+               </head>
+               <p>
+                  <hi> E. China, W. Persia, N. Tartary,</hi> with <hi>Taurus</hi> between, <hi>S.</hi> Sea; extended from the one hundred and sixth, to the one hundred sixty ninth degree of Longitude; and from the Aequator to the
+<pb n="30" facs="tcp:207122:21"/>forty fourth degree of Northern Latitude: affording a double encrease, and blessed with Mines of Gold, Sil<g ref="char:EOLhyphen"/>ver, and Precious Stones, with Mettals of all kind, ex<g ref="char:EOLhyphen"/>cept Copper, and Lead; and Cattle, except Horses, and Fruit, except Wheat and Vines; all Spices, Civets, and medicinal Drugs; besides that, it is famous for all sorts of Camels, Parrats, Apes, Dragons, Serpents, R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inocerats, and Elephants: The Inhabitants, 1 <hi>In<g ref="char:EOLhyphen"/>dians.</hi> 2 <hi>Moors,</hi> 3 <hi>Jews.</hi> 4 <hi>Tartars.</hi> 5 And <hi>Merchants-Portugez, Spaniards, English</hi> or <hi>Dutch:</hi> Civil, plain-deal<g ref="char:EOLhyphen"/>ing proud only in Perfumes, and Jewels, (living on Barley, Rice Milk, Honey, <hi>&amp;c.</hi>) The women in Lawn, so fond, that they dye with their husbands, that bought them for a Yoke of Oxen; though they have a barbarous custome, that the Brach-mans or Priests should lye with them the first night they are married; and that of killing their Friends before they are aged. Ten Mountains of Note for precious Stones. Two Ri<g ref="char:EOLhyphen"/>vers, 1 <hi>Indus</hi> now <hi>Naugrocat,</hi> falling after a course of nine hundred miles into the Sea in seven months. 2 <hi>Ganges</hi> eight miles broad in the narrowest place. On this side which is called <hi>India intra Gangem. E.</hi> Gulf <hi>Bengala, W. Persia,</hi> and <hi>Arabian</hi> Sea, <hi>N. Taurus, S. Cape Commari;</hi> having eighteen or nineteen Rivers, disco<g ref="char:EOLhyphen"/>vered after three attempts by the <hi>Portugez,</hi> while the <hi>Spaniards</hi> were busie in making a discovery of the new World, 1502. Fifteen Provinces, and forty seven Kingdomes under the great <hi>Mogul.</hi>
+               </p>
+               <p>1 <hi>Dulsinga, S. Cambaia, N. Tartary, E. Indus, W. Persia,</hi>
+                  <note n="*" place="margin">The snowy Mountains much condu<g ref="char:EOLhyphen"/>cing to the temperature of it.</note> temperate where 1 Healthy <hi>Chusmair</hi> in a most de<g ref="char:EOLhyphen"/>licate and rich valley. 2 the Fort <hi>Roree.</hi> 3 <hi>Sestan.</hi> 4 <hi>Mul<g ref="char:EOLhyphen"/>tun,</hi> three leagues from the <hi>Indus,</hi> the ordinary through-fare of the <hi>Caravans</hi> in the way from <hi>Lahor</hi> to <hi>Spahan,</hi> forced to stay there four dayes to enrich the town: good for nothing but Bows and Arrows. 5 The Fort <hi>Duchee</hi> in the Streights of the mountains to secure the <hi>Caravans.</hi>
+               </p>
+               <p n="2">2. Over against <hi>Dulsinda Pengab,</hi> where 1 is <hi>Lahor,</hi>
+                  <pb n="31" facs="tcp:207122:21"/>on the Eastern banks of the <hi>Indus,</hi> the chief Staple for Spices, carried by land to <hi>Persia,</hi> and by water to <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> 2 <hi>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ltan Puarre.</hi> 3 <hi>Athe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> in the way you come from <hi>Lahore</hi> to <hi>China.</hi>
+               </p>
+               <p n="3">3. Mountanous <hi>Mandao, N. Pengab,</hi> where 1 <hi>Man<g ref="char:EOLhyphen"/>dao</hi> on the River <hi>Mandavo</hi> of good note, eighteen miles round. 2 <hi>Moltan,</hi> where the women go booted and spurred.</p>
+               <p n="4">4. Thievish <hi>Delly,</hi> and its swift Dromedaries, <hi>W. Mandao;</hi> hath 1 <hi>Delly,</hi> a great City of pleasure. 2 <hi>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ceti.</hi> 3 <hi>Tremel,</hi> on the <hi>W.</hi> River <hi>Mandova.</hi>
+               </p>
+               <p n="5">5. Well-watered, and rich <hi>Agra, N. Delly,</hi> and <hi>Mandao;</hi> where 1 <hi>Agra,</hi> strong and populous on the North bank of the River <hi>Jemena.</hi> 2 Decayed <hi>Fate-pore,</hi> or <hi>Feti-barri.</hi> 3 Impregnable <hi>Hendee.</hi> 4 <hi>Biant,</hi> where the best
+<note n="*" place="margin">Growing on a small shrub like a Goose berry bush, bearing seed like cab<g ref="char:EOLhyphen"/>bage seed, which being cut down and dried for half a year in heaps &amp; rot<g ref="char:EOLhyphen"/>ten, is trod with Oxen in the stalk, and being grownd smal &amp; fine at the Mills, is last of all boyled in Furnaces, re<g ref="char:EOLhyphen"/>fined and sorted, and so sold to the Merchants.</note> Indico; for the making whereof here are twelve Mills.</p>
+               <p n="6">6. <hi>Sanga, N. Agra,</hi> 1 <hi>Azmor,</hi> one hundred eighty miles from <hi>Agra,</hi> at each three miles end, of which there is an Inn built for Pilgrims. 2 <hi>Citor,</hi> in the mid<g ref="char:EOLhyphen"/>dle way between <hi>Surat</hi> and <hi>Agra.</hi>
+               </p>
+               <p n="7">7. <hi>Cambaia, E. W. Welly</hi> and <hi>Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>da<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, S.</hi> Sea, where 1 <hi>Insinda</hi> the first Province thereof is 1 <hi>Lawribander</hi> in the out-let of <hi>Indus,</hi> three dayes journey from <hi>Geta Ne<g ref="char:EOLhyphen"/>gar Tutta</hi> (on the banks of the <hi>Indus,</hi> a town of great trade, frequented by <hi>Portugez,</hi> who return Pepper for such Indian Commodities as come hither from <hi>Lahore</hi>) to which it is the Port-town; much frequented, be<g ref="char:EOLhyphen"/>cause free from wormes, which about <hi>Surat</hi> disable the ships. 2 <hi>Sarrama</hi> the middle Town. 4 <hi>Nuraquimire,</hi> be<g ref="char:EOLhyphen"/>yond a
+<note n="*" place="margin">Where those that rob a man will conduct him through the deserts, that others shall not touch him.</note> desart. 5 <hi>Radempoore</hi> neer it. 6 <hi>Calwalla,</hi> given the women to bring up their Daughters to Dance.</p>
+               <p n="2">2. In Robbing <hi>Guzarate, N. Sinda. S.</hi> Sea, <hi>E. Indus, W. Persia.</hi> 1 <hi>Diu.</hi> looking towards <hi>Persia,</hi> in the mouth of the <hi>Indus,</hi> possessed by the Spice-Traders of <hi>Portugal;</hi> the first news of the taking of which was brought to to <hi>Lisbon</hi> by <hi>Jo. Botelius</hi> from <hi>India,</hi> in a Vessel of eigh<g ref="char:EOLhyphen"/>teen foot long, and six foot broad. 2 <hi>Boldra.</hi> 3 <hi>Meda<g ref="char:EOLhyphen"/>bat,</hi>
+                  <pb n="32" facs="tcp:207122:22"/>on the Rivers side as big as <hi>Paris,</hi> much frequented by all Merchants. 4 <hi>Ardovat</hi> not far from it. 5 <hi>Saringa.</hi> 6 <hi>Poriana.</hi> 7 <hi>Sherfo,</hi> the Sepulchre of their Kings.</p>
+               <p n="3">3. In <hi>Cambaja, N. Mandao, S. Decan, Surat, W.</hi> Sea, abounding in Rice, Wheat, Sugar, Spices, and choice fruits of all sorts; great store of Silk and Cotton, Dia<g ref="char:EOLhyphen"/>monds, Chalcedonies, Onyx-stone, and Cornelines, or as we call them Cornelians; and the rare Beast <hi>Abades,</hi> twice as big as a Bull, with an impenetrable skin, and a little horn on their Snouts. Where the people never marry out of their own Trades or Tribes, especially the <hi>Banians</hi> who are kind of <hi>Pytha<g ref="char:EOLhyphen"/>goreans.</hi> 1 <hi>Cambaja,</hi> three miles round, and from the <hi>Indus.</hi> 2 <hi>Barrocho, S.</hi> of it where good
+<note n="*" place="margin">Called so from the City <hi>Calicut,</hi> where it was first made.</note>
+                  <hi>Calicoes.</hi> 3 Wel<g ref="char:EOLhyphen"/>fortified and orcharded <hi>Surat,</hi> with its Pomgranates, Melons, Figs and Lemmons, the residence of an <hi>English</hi> Factory, that hath a great trade in the Bay of <hi>Swalley,</hi> ten miles off. 4 <hi>Neriand</hi> and its Indico. 5 <hi>Daman,</hi> a pleasant town of the <hi>Portugez,</hi> upon the Sea-side over against <hi>Diu.</hi> 6 High and impregnable <hi>Campanel</hi> and <hi>Dacaiotote.</hi> 7 <hi>Netherby</hi> and <hi>Bandore,</hi> great Markets for Brazen ware, Beasts, and Armour. 8 <hi>Decan, N. Cam<g ref="char:EOLhyphen"/>bria, W.</hi> Sea, on the Sea-Coast for two hundred and fifty miles. 1 <hi>Decan,</hi> and the rich and well-guarded
+<note n="*" place="margin">All the peo<g ref="char:EOLhyphen"/>ple there go in Silks and Tiffany, be<g ref="char:EOLhyphen"/>ing coal<g ref="char:EOLhyphen"/>black.</note> Diamond-hill neer it. 2. <hi>Bider,</hi> a Royal City North<g ref="char:EOLhyphen"/>ward. 3 As <hi>Visapore</hi> was. 4. <hi>Danagur.</hi> 5 <hi>Sintacora,</hi> on the mouth of the River <hi>Aliga.</hi> 6 The great Empory <hi>Goa,</hi> fifteen mile round in the Island <hi>Ticuarinum</hi> over against the out-let of <hi>Mandavo,</hi> one of the Keys to the <hi>Indies,</hi> possessed by the <hi>Portugals.</hi> 7 The Sea-town <hi>Chaul</hi> theirs too. 8 The beautiful and well-traded town <hi>Brampore,</hi> on a great River like <hi>London,</hi> not far from the strong fort <hi>Syra.</hi>
+               </p>
+               <p n="9">9 <hi>Canara, N. Decan, S. Malabar, W.</hi> Sea hath 1 <hi>Me<g ref="char:EOLhyphen"/>linde.</hi> 2 <hi>Onor.</hi> 3 <hi>Patticalia.</hi> 4 <hi>Mangalor</hi> all Ports of good trade for Sugars▪ Figgs▪ Corn held by the <hi>Por<g ref="char:EOLhyphen"/>tugez.</hi> 5 <hi>Lispor</hi> and its quarries of <hi>Adamant.</hi> 6 <hi>Solset,</hi> and its <hi>Peninsula.</hi>
+               </p>
+               <pb n="33" facs="tcp:207122:22"/>
+               <p n="10">10. <hi>Malabar, N. Canara</hi> the River <hi>Gangeraco</hi> be<g ref="char:EOLhyphen"/>tween <hi>E. Narsinga,</hi> and the mountain <hi>Gate<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> between, <hi>S. W.</hi> Sea, plentiful for Ginger, Cinnamon, Cassia, Pepper, and the Dates that yields Wine, Oyl, Sugar, fine Cloa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Cordage; and another bearing Cot<g ref="char:EOLhyphen"/>ton, Cypr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss and cobweb Lawn the leaves Sattin and Taffata, be<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>des Apes, Monkeyes, Parrats, and Para<g ref="char:EOLhyphen"/>quitoes. 1 <hi>Connor,</hi> in the Province or <hi>Connor,</hi> with a fair and capacious haven, much frequented by Mer<g ref="char:EOLhyphen"/>chants, especially <hi>Portugez,</hi> who have a Citadel here. 2 <hi>Cora.</hi> 3 <hi>Peripatum. Marabia.</hi> 5 <hi>Main.</hi> 2
+<note n="*" place="margin">Where they are so barba<g ref="char:EOLhyphen"/>rous, <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s to change wives w<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h one an<g ref="char:EOLhyphen"/>other in mirth</note>
+                  <hi>Calicute,</hi> in the Province of <hi>Calicute</hi> on the Sea three miles, a place or great trade, where the Eastern and European Merchants meet. 3 <hi>Chale,</hi> a Fort. 4 <hi>Chatua.</hi> 5 <hi>Purtan<g ref="char:EOLhyphen"/>gale.</hi> 6 <hi>Tanor.</hi> 3 <hi>Cranganor,</hi> commodious for trade, at the mouth of a River in the Province of <hi>Cran Ganor</hi> on the <hi>S.</hi> of <hi>Calicate,</hi> full of St. <hi>Thomas</hi>'s
+<note n="*" place="margin">S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>venty thousand of them there.</note> Christians. 8 <hi>Co<g ref="char:EOLhyphen"/>chin,</hi> a well-traded, and well-havened town in the out<g ref="char:EOLhyphen"/>let of <hi>Mangat,</hi> in a Province of that name, <hi>S. Cran<g ref="char:EOLhyphen"/>ganor</hi> forty leagues on the shore. 9 <hi>Caicholam,</hi> a much frequented Port-town in <hi>Caicolam.</hi> 10 <hi>Caulan</hi> neer <hi>Caicolam,</hi> with its commodious haven much resorted to by forreign Merchants for Pepper and other Spices. 11 <hi>Quilacor</hi> in <hi>Trevandor,</hi> whither the Kings of that place after twelve years Reign go, and on a Scaf<g ref="char:EOLhyphen"/>fold cut their Noses, Eares and Lips, and at last their throats.</p>
+               <p n="11">11. <hi>Narsinga, S. Trevancor, E. Gulf Bengala:</hi> here is 1 <hi>Cael</hi> neer <hi>Trevancor,</hi> where they fish for Pearl. 2 <hi>Gol<g ref="char:EOLhyphen"/>conda.</hi> 3 <hi>Chamdagrin,</hi> a seat-Royal. 4 <hi>Perepti,</hi> where at an yearly feast they offered two hundred thousand Crowns. 5 <hi>Madura.</hi> 6 <hi>Chadamburam.</hi> 7 <hi>Maliaper,</hi> or St. <hi>Thomas</hi> re-peopled, with a Colony of <hi>Portuguez.</hi> 8 <hi>Choromandel,</hi> a place of Trade, giving name to all the Sea-coast about it on the west side of the Gulf of <hi>Ben<g ref="char:EOLhyphen"/>gala,</hi> with <hi>Casta. Negapatan, Tarnassari</hi> desolate <hi>Bisnagar,</hi> and <hi>Royal Narsinga,</hi> where the women desire to be bu<g ref="char:EOLhyphen"/>ried alive with their Husband:
+<pb n="34" facs="tcp:207122:23"/>
+                  <q>
+                     <l>Et certamen habent lethi, quae viva sequatur</l>
+                     <l>Conjugium; pudor est non licuisso mori:</l>
+                     <l>Ardent victrices, &amp; praebent pectora flammae</l>
+                     <l>Imponuni{que} suis ora perusta viris.</l>
+                  </q>
+               </p>
+               <p n="12">12. <hi>Oristan, S. Narsinga, Botanter, E. Gulf</hi> of <hi>Bengala,</hi> a fair Sea-coast of three hundred and fifty miles in length, <hi>i. e.</hi> from <hi>Cape Guadarino</hi> between it and <hi>Nar<g ref="char:EOLhyphen"/>singa</hi> to <hi>Cape Leogorae</hi> between it and <hi>Bengala.</hi> 1 <hi>Orissa,</hi> on the Sea side, well traded for Rice, Cloth of Cotton, the Stuff <hi>Yerva</hi> like Silk; together with long Pepper, Ginger, Mirabolins, <hi>&amp;c.</hi> 2 Royal <hi>Cateoba.</hi> 3 The wel-traffiqued Port <hi>Angeli,</hi> at the bottom of the Gulf of <hi>Bengala.</hi> 4 Poor <hi>Bacola.</hi>
+               </p>
+               <p n="13">13. <hi>Botanter, S. Onstan, W.</hi> the sacred River
+<note n="*" place="margin">Whose wa<g ref="char:EOLhyphen"/>ters they fetch far and neer for Sa<g ref="char:EOLhyphen"/>crifices.</note>
+                  <hi>Guenga, E. Ganges;</hi> where the people have ears of a span length, never washing for fear of defiling the water; where is <hi>Bottia, Clamur-Kukares</hi> (a Staple for the sale of their Cloath to the <hi>Chinois,</hi> and <hi>Tartarian</hi> Merchants)
+<note n="*" place="margin">Here their money and their meat is Almonds.</note>
+                  <hi>Cou<g ref="char:EOLhyphen"/>che,</hi> where they kill not their Cattle, but keep Hospi<g ref="char:EOLhyphen"/>tals for them when they are old.</p>
+               <p n="14">14. <hi>Patanau, N. Botanter;</hi> 1 Large, but thatched <hi>Patane.</hi> 2 <hi>Holy</hi> and <hi>Pilgrim Bannaras</hi> on the holy <hi>Ganges.</hi> 3 <hi>Siripur.</hi>
+                  <note n="†" place="margin">Where the Jesuites were told by the heathen, that they might as lawfully wor<g ref="char:EOLhyphen"/>ship their <hi>Pa<g ref="char:EOLhyphen"/>gods,</hi> as they their <hi>Images.</hi>
+                  </note> 4 <hi>Ciandecan,</hi> on the bottom of the Gulf of <hi>Bergala.</hi> 5 <hi>Satagan.</hi>
+               </p>
+               <p n="15">15. <hi>Bengala, N. Patanaw, E. Pegu, S. W.</hi> Gulf of <hi>Bengala</hi> on the Gulf and River three hundred and sixty miles long hath 1 <hi>Be<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gala</hi> on the <hi>Ganges,</hi> rich in trade for Silk and Cotton long Pepper, Ginger, Sugar, Wheat and Rice: the people subtil and skilled in Phy<g ref="char:EOLhyphen"/>losophy, Physick and Astronomy: richer in Pilgri<g ref="char:EOLhyphen"/>mages to the Holy Water of <hi>Ganges,</hi> with <hi>Gatigan,</hi> a well-traded port in the bottom of the Gulf of <hi>Bengala.</hi> 3 <hi>Taxada,</hi> decayed in trade by an alteration in the Channel. 4 <hi>Porrow Grande,</hi> and <hi>Porror Pequeno,</hi> two Lawless <hi>Asylums,</hi> with the Islands <hi>Basse, Cainam, Islas de Pracel,</hi> where was reported such store of Adamants, as drew ships thither, if they were not pinned with wooden pins.</p>
+               <pb n="35" facs="tcp:207122:23"/>
+               <p n="2">2. In <hi>India Extra Gangen,</hi> or the continent beyond <hi>Ganges</hi>
+                  <note n="*" place="margin">By the o<g ref="char:EOLhyphen"/>ver flowings whereof it is m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich as <hi>Aegypt</hi> is by that o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Nile.</hi>
+                  </note> is 1 <hi>Brama, W. Ganges, N. Cathay</hi> in <hi>Tartary, E. Cauchin-china, S. Pega,</hi> now <hi>Barma,</hi> rich in m<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es of Gold and Silver; Rubies and Mask much traded to by <hi>P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtugez:</hi> and there 1 <hi>Calam.</hi> 2 <hi>Bacan.</hi> 3. <hi>Mira<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>da.</hi> 4 <hi>Me<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inta.</hi> 5 <hi>Prom.</hi> 6 <hi>Ava.</hi> 7 <hi>Tangu,</hi> and 8 <hi>Brama,</hi> where is the tree called <hi>Moses,</hi> which they take to be the Tree of Life.</p>
+               <p>2 <hi>Cauchinchina, W. Brama, E. China, N. Tartary, S. Cam<g ref="char:EOLhyphen"/>boia,</hi> rich in Aloes, Silks, Taffata, and other Stuffs, Gold. Silver, Porcellane earth, wrought into <hi>Chi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>ware</hi> (well counterfeited among us by drawing a white crust on our Potters Earth) Powder, Guns, where is the City <hi>Cauchin-china,</hi> on a River of <hi>China,</hi> running into a capacious Bay, with the Island <hi>Aimo,</hi> where they fish for pearls, commanded by <hi>Portugez.</hi>
+               </p>
+               <p n="3">3 <hi>Camboia, N. Cauchin-china</hi> abounding in Elephants, and Rhinocerots or Abades, Aloes, Gold, and the sweet-wood Calumba, where is the well-traded City of <hi>Comboia,</hi> on the River <hi>Mecon,</hi> as the Staple for the Commodities of this Country. 2 <hi>Cudurmuch</hi> on the same River. 3 <hi>Coul</hi> on the sea-side.</p>
+               <p n="4">4 <hi>Jangoma W. Pegu, E. Camboia, N. Brama, S. Siam,</hi> a barbarous place not observable.</p>
+               <p n="5">5 <hi>Siam, N. Jangoma</hi> and <hi>Pegu, E. S. W.</hi> Sea, a <hi>Penin<g ref="char:EOLhyphen"/>sula,</hi> called formerly the <hi>Golden</hi>
+                  <note n="*" place="margin">And reckon<g ref="char:EOLhyphen"/>ed one of the five <hi>Cherso<g ref="char:EOLhyphen"/>nesses,</hi> the o<g ref="char:EOLhyphen"/>ther four be<g ref="char:EOLhyphen"/>ing the <hi>Pelo<g ref="char:EOLhyphen"/>ponesian</hi> in <hi>Greece;</hi> the <hi>Thracian</hi> in <hi>Propontis,</hi> the <hi>Taurican</hi> in the <hi>Euxine,</hi> the <hi>Cimbrian</hi> in <hi>Denmark.</hi>
+                  </note>
+                  <hi>Chersonesse,</hi> rich in Gold, Silver, Tin, <hi>&amp;c.</hi> Pepper, Elephants and Horses. 1 <hi>Malaca,</hi> a noted Empory for the space of two hun<g ref="char:EOLhyphen"/>dred and seventy miles, especially at the City <hi>Malaca</hi> on the River <hi>Gaza,</hi> unwholesom indeed, but of great trade for Spices, Oyntments, Gold, Silver, Pearls, and pre<g ref="char:EOLhyphen"/>cious stones, especially since the <hi>Portugals</hi> removed the trade from <hi>Sincapura,</hi> a Mart neer the Promontory <hi>Magnum</hi> hither. 3 <hi>Palo Zambilan,</hi> whence to <hi>Sinca<g ref="char:EOLhyphen"/>pura,</hi> about the Southern Cape, called <hi>Cape Liampo,</hi> two hundred and seventy miles. 2 <hi>Johor</hi> and <hi>Patane,</hi> the Queens whereof have been so kind to the <hi>English</hi> and the <hi>Dutch,</hi> as to permit them Factories there, 1612.</p>
+               <pb n="36" facs="tcp:207122:24"/>
+               <p n="3">3. <hi>Siam,</hi> particularly so called, where is, 1 <hi>Socatus.</hi> 2 <hi>Quedoa,</hi> and the best Pepper. 3 <hi>Tavai, Lugor</hi> on the Sea side.
+<note n="*" place="margin">The People here believe that the world will be burnt, and under the ashes of it, two eggs, out of which shall come a man and a woman to re-people it.</note> 4 <hi>Siam,</hi> commodiously seated, and much frequented for trade, and Merchandise on the River <hi>Menam.</hi>
+               </p>
+               <p n="4">4. <hi>Muantay,</hi> between <hi>Jangoma</hi> and <hi>Siam,</hi> memorable for the third Empory of the <hi>Indies Odia</hi> or <hi>Ʋdie</hi> on the Banks of the River <hi>Caipumo,</hi> where two hundred thou<g ref="char:EOLhyphen"/>sand Skiffs and Shallops, attend to waft people from place to place.</p>
+               <p n="6">6. <hi>Pegu, E. Jangoma</hi> and <hi>Siam, N. Barma, W. S.</hi> Gulf of <hi>Bengala,</hi> where besides 1 <hi>Verma.</hi> 2 <hi>Machin,</hi> where neither Port nor Haven; is, 3 <hi>Orachan,</hi> in which Pro<g ref="char:EOLhyphen"/>vince is; 1 <hi>Dianger</hi> ruined. 2 <hi>Sundiva,</hi> in an Island well fortified. 3 <hi>Arrachan,</hi> on a capacious River thir<g ref="char:EOLhyphen"/>ty leagues distance from the Sea. 4 <hi>Martavan,</hi> with its chief City <hi>Martavan,</hi> rich in Rice, Iron, Lead, Steel, Brass, Silver, Gold, Sugar-Canes, and other woods odoriferous, and medicinal, scituated on a capacious Haven all the year open; and what is rare, here free from Sands, even in the winter time. 5 <hi>Pegu,</hi> lying like a <hi>Crescent</hi> on the Gulf of <hi>Bengala,</hi> eminent for Rubies, Civet-cats, Lacca (Gum made by <hi>Ants</hi> there, as Wax is made by <hi>Bees</hi> here) Elephants, and the best Parrats; the people whereof say, they were begotten between a <hi>Dog</hi> and a <hi>China</hi> Woman cast on the shore. Here are 1 Woody <hi>Cosmi.</hi> 2 <hi>Jacabel.</hi> 3 <hi>Dian.</hi> 4
+<note n="*" place="margin">A City four square, and each square four miles.</note>
+                  <hi>Coilan.</hi> 5 <hi>La<g ref="char:EOLhyphen"/>nagon.</hi> 6 <hi>Silvan pede.</hi> 7 <hi>Meccao,</hi> (where such goods are unloaded as are carried by land to <hi>Pegu</hi>) with its strong Castle. 8 <hi>Siriang,</hi> a strong place in the mouth of <hi>Pegu.</hi> on whose Banks most of the foresaid places lye; as doth the most beautiful, rich, and well-traded <hi>Pegu,</hi> in the <hi>Old</hi> part whereof the Merchants live, as the King doth in the <hi>New;</hi> most of these places under Kings of their own, that daily make war upon one another, but the greatest amongst them is, the rich, and absolute Prince, the <hi>Mogul.</hi>
+               </p>
+            </div>
+            <div n="32" type="part">
+               <pb n="37" facs="tcp:207122:24"/>
+               <head>XXXII. <hi>The Orientael Isles:</hi>
+               </head>
+               <p n="1">1. In the heap of Isles, containing fifty three King<g ref="char:EOLhyphen"/>doms, two hundred leagues; <hi>S.</hi> on the Sea called <hi>Ja<g ref="char:EOLhyphen"/>pan,</hi> where the people are cunning, ambitious, impla<g ref="char:EOLhyphen"/>cable, hating idle recreations; eating in Physick sharp salt, and raw things; using in salutations to put off their shooe: is 1 <hi>Meaco,</hi> the common staple of <hi>Japan.</hi> 2 <hi>Ossacy,</hi> of great trade. 3 <hi>Feno-Jama</hi> their Uni<g ref="char:EOLhyphen"/>versity and <hi>Banoum.</hi> 4 <hi>Bongo.</hi> 5 <hi>Cora,</hi> where at least one tooth of their Kings must be interred. 6 <hi>Amanga S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>qui.</hi> 7 <hi>Surungo,</hi> as big as <hi>London.</hi> 8 <hi>Edoo</hi> and <hi>Firando,</hi> where 1613 there was a Factory setled for the <hi>English</hi> Mer<g ref="char:EOLhyphen"/>chants. 9 The noted Haven <hi>Ochino-famanus.</hi>
+               </p>
+               <p n="2">2. The
+<note n="*" place="margin">Called so in honour of <hi>Philip</hi> the 2d of <hi>Spain,</hi> be<g ref="char:EOLhyphen"/>cause in his time disco<g ref="char:EOLhyphen"/>vered by <hi>Le<g ref="char:EOLhyphen"/>guspi</hi> a <hi>Spanish</hi> Captain, 1564</note>
+                  <hi>Philippines,</hi> and the neighbouring Islands <hi>S.</hi> of <hi>Japan,</hi> rich in Rice, Pulse, Honey, Wax, Sugar-Canes, the best Figs in the world, Cotton-wool, Mines of Gold, and other Mettals; plenty of Fish, Birds and Beasts: where forty containing a million of people, are under the King of <hi>Spains</hi> Government, and under his Vice-Roy in <hi>New-Spains</hi> Jurisdiction: As 1 <hi>Lusson</hi> with <hi>Manilla,</hi> a commodious Haven town. 2 <hi>Tandair,</hi> very fruitfull. 3 <hi>Mindano,</hi> three hundred and eighty leagues round, where 1 <hi>Cailon, Pavados, Sabal,</hi> and <hi>Da<g ref="char:EOLhyphen"/>piro,</hi> and westward the <hi>Lequins;</hi> and <hi>Hermosa,</hi> lately called <hi>New-Holland,</hi> because taken, planted, and strong<g ref="char:EOLhyphen"/>ly fortified by some Adventures of that Country; <hi>Ci<g ref="char:EOLhyphen"/>umbabon,</hi> where is the
+<note n="*" place="margin">That shrinks at a touch.</note> Plant animal.</p>
+               <p n="3">3. The burning seven
+<note n="*" place="margin">That is, 1 <hi>Mira.</hi> 2 <hi>Ro<g ref="char:EOLhyphen"/>singen.</hi> 3 <hi>Rom.</hi> 4 <hi>Nerro.</hi> 5 <hi>Aii.</hi> 6 <hi>Ganuape</hi> and <hi>Bandan.</hi>
+                  </note> Isles of <hi>Bandan,</hi> where are the best Nutmegs growing like Peaches or Malaca<g ref="char:EOLhyphen"/>toons, where are <hi>Dutch</hi> Factories, and some <hi>English</hi> Merchants, the place being yielded to the Protection of King <hi>James, November</hi> 24, 1620, both the <hi>Dutch</hi> and we taking advantage of their divisions, though they are more inclined to us than the <hi>Dutch.</hi>
+               </p>
+               <p n="4">4. The innumerable <hi>Moluccoes</hi> hot on both sides the Aequator, affording Cinamon, Ginger, Nutmegs, Ma<g ref="char:EOLhyphen"/>stick, Aloees, Pepper, and especially Cloves growing on trees like Bay-trees, which after the white and the
+<pb n="38" facs="tcp:207122:25"/>green blossoms when they smell extraordinarily fra<g ref="char:EOLhyphen"/>grantly, yield red and hard ones; which are Cloves so hot, that in two days they will
+<note n="*" place="margin">As they say, will the un<g ref="char:EOLhyphen"/>spun Silks of <hi>China.</hi>
+                  </note> dry up a pail of water standing in the room where they are sorted; the most remarkable of them are <hi>Tidor, Terenate, Macir, Rachian, Mach<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an, Botone, Poleroone</hi> and <hi>Poleway;</hi> in the former whereof the <hi>Dutch</hi> have three Forts and Fa<g ref="char:EOLhyphen"/>ctories to the <hi>Spaniards</hi> one; the two last are the <hi>En<g ref="char:EOLhyphen"/>glishes,</hi> surrendred <hi>December</hi> 23, 1616. by right, the first the best in the world for Cloves, and the latter for Nut<g ref="char:EOLhyphen"/>megs, which the <hi>Dutch</hi> seized, cutting down the Clove-trees, and the Nutmeg-trees when they were to restore them to the <hi>English.</hi>
+               </p>
+               <p n="5">5. The <hi>Many Selebes,</hi> as 1 <hi>Sclebes</hi> properly so called, where <hi>Cian</hi> or <hi>Sion.</hi> 2 <hi>Nebon, N.</hi> and <hi>Terelli, S.</hi> 3 <hi>Gilolo,</hi> or <hi>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l-moro,</hi> well stored with wild hens, and a kind of Shell-fish that much resembleth Mutton; and the Tree <hi>Saga,</hi> which affordeth them bread and drink. In the chief town whereof <hi>Batchame</hi> or <hi>Batachina,</hi> there is a <hi>Dutch</hi> Fort to defend their Factory.</p>
+               <p n="6">6. <hi>Amboyna, S.</hi> of the <hi>Aequator,</hi> fertile in Rice, Ci<g ref="char:EOLhyphen"/>trons, Lemmons, Orenges, Coquo-nuts, Sugar-canes, and Cloves, <hi>&amp;c.</hi> Which hot fruits suck the moysture of the Earth, so that nothing else will grow there. Notorious for the unheard of cruelties exercised upon the <hi>English</hi> by the <hi>Dutch</hi> 1618 in that place.</p>
+               <p n="7">7. <hi>Macassar, W. Amboyna, S. W. Celebes,</hi> six hundred miles from <hi>E.</hi> to <hi>W.</hi> plentifull of Rice, Flesh, Fish, Salt, Cotton-wool, Gold, Pearls, Sander a Medicinal wood growing like a Nutmeg-tree, the fruit like Cherries, overgrown with wood; there 1 is <hi>Senderem,</hi> neer a large Lake, very commodious for Traffick. 2 <hi>Macassar,</hi> an <hi>English</hi> Factory; there are other places hereabouts, as <hi>Sanguin, Terrao, Solor, &amp;c.</hi> but not worth a Descri<g ref="char:EOLhyphen"/>ption.</p>
+               <p n="8">8. <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rneo,</hi> two thousand two hundred miles round, under the <hi>Aequator,</hi> affording besides necessaries Cam<g ref="char:EOLhyphen"/>phire, Agariche, Adamants; and a people very white
+<pb n="39" facs="tcp:207122:25"/>and honest, that sit not on businesse till the Moon is up, which they take to be the Suns wife, and the Stars their Children: Hath for towns, 1 <hi>Bornes,</hi> hear a good<g ref="char:EOLhyphen"/>ly Bay, <hi>N. W.</hi> 2 The Commodious Cities, and fair Havens of <hi>Tajopura, Tamoaratas, Maalano, Lavi, Paro,</hi> and <hi>Sagdana</hi> an <hi>English</hi> Factory.</p>
+               <p n="9">9. South of <hi>Borneo</hi> and the <hi>Aequator,</hi> is
+<note n="*" place="margin">
+                     <hi>Jabo-Diu;</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Island of Bar<g ref="char:EOLhyphen"/>ley.</note> 1 <hi>Java ma<g ref="char:EOLhyphen"/>jor,</hi> three thousand miles round; rich in all Corn, es<g ref="char:EOLhyphen"/>pecially Rice, all flesh salted, all sorts of Fowl, plenty of Gold, Precious Stones, Brass of the best kind; Silks, Pepper, Ginger, Cinnamon, and other Spices; the people careless of their words, answering when taxed with it, <hi>that the tongue was not made of Bone.</hi> The chief Towns, 1 <hi>Panacuran,</hi> neer a burning hill. 2 <hi>Jortam.</hi> 3 <hi>Ballambua.</hi> 4 <hi>Passarva.</hi> 5 <hi>Taban.</hi> 6 <hi>Taggal.</hi> 7 <hi>Surra<g ref="char:EOLhyphen"/>baia.</hi> 8 <hi>Catabaon.</hi> Unwholesome <hi>Bantam</hi> of great trade the <hi>English, Portugez</hi> and <hi>Dutch</hi> having Factories here; the principal Factory of the <hi>English</hi> in the <hi>Indies.</hi> 10 The good Port <hi>Agracan.</hi> 11 <hi>Sura.</hi> 12 <hi>Situa,</hi> about which there is abundance of Pepper.</p>
+               <p n="2">2 <hi>Java minor,</hi> not so well yet discovered.</p>
+               <p n="10">10. <hi>Summatra,</hi> seven hundred miles long, and two hundred broad on the North of <hi>Java major,</hi> under the <hi>Aequator;</hi> the Soil hot and unwholesome, yielding Ginger, Pepper, Camphire, Agariche, and Cassia; besides Honey, Wax, Silks, Cottons, rich Mines, not only of Tin, Iron, and Sulphur, and other Minerals, but of Gold, it being conceived to be <hi>Solomons</hi> Ophir. The Inhabitants good Merchants, and Artificers, al<g ref="char:EOLhyphen"/>wayes leading a spare Horse with them to their <hi>Mos<g ref="char:EOLhyphen"/>ches,</hi> looking for <hi>Mahomet</hi> to come and ride on him: Here is, 1 <hi>Passaman,</hi> a town of great trade; but un<g ref="char:EOLhyphen"/>healthy as the <hi>English</hi> know, who have a Factory there. 2 <hi>Tecoo,</hi> and its convenient Haven. 3 <hi>Priamon,</hi> all three towns lying in that Country where Pepper groweth. 4 <hi>Achen,</hi> and the Kings Court. 5 <hi>Menantabo.</hi> 6 <hi>Cambar.</hi>
+               </p>
+               <pb n="40" facs="tcp:207122:26"/>
+               <p n="11">11. <hi>Zeiland,</hi> Northwest of <hi>Summatra,</hi> and its woods of Cinnamon, Lemmons, Orenges, <hi>&amp;c.</hi> wild and tame Fowls and Beasts, especially Elephants, thought by them Paradise, there being an Hill there called, <hi>Pico de Adam;</hi> the people good Artificers and Jug<g ref="char:EOLhyphen"/>glers; Here is, 1 <hi>Candie.</hi> 2 <hi>Ventane.</hi> 3 <hi>Colmuchi,</hi> on a capacious Bay, a place of great trade, especially for Cinamon, Gems, Elephants-teeth, <hi>&amp;c.</hi> well sortified by <hi>Portugez,</hi> who call it <hi>Columbo.</hi> 4 <hi>Laula.</hi> 5 <hi>Galle.</hi> 6 <hi>Tinamaca.</hi> 7 <hi>Triqui Lemale.</hi> 8 <hi>Jana Sipatan.</hi> 9 <hi>Vilassem.</hi> 10 <hi>Batecolom,</hi> neer which Isle, are the <hi>Mald<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ae,</hi> and there <hi>Maldiva,</hi> a well known Empory.</p>
+               <p>All these places speak the <hi>Indian</hi> tongue in diverse Dialects; most of the Inhabitants <hi>Pagans</hi> and <hi>Mahu<g ref="char:EOLhyphen"/>metans,</hi> except here and there some Plantations of Christian Converts, by the <hi>Spaniards</hi> and <hi>Portugez.</hi>
+               </p>
+            </div>
+            <trailer>The End of <hi>ASIA.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="directions">
+            <pb facs="tcp:207122:26"/>
+            <head>Directions to find out any part or place in this Book, desired or sought for:</head>
+            <p>FIrst, <hi>You must know, that on both sides the Map, are degrees of Latitude, at every ten of which there is a Circular Line drawn through the Map:</hi> Secondly, <hi>at the top and bot<g ref="char:EOLhyphen"/>tom there are Degrees of Longitude; at every</hi> 10 <hi>of which, Lines are drawn through the Map.</hi>
+            </p>
+            <p>
+               <hi>Now, if you would find any City or other place of Note, look for it in the Table, and there you shall see what Latitude and what Longitude it hath, which finding at one of the sides, and top of the Map, bringing them till they cut one the other, there you shall find the place.</hi>
+            </p>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
